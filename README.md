@@ -1,5 +1,5 @@
 ---
-title: "Home - Collective Action and Cooperation Knowledgebase"
+title: "Collective Action and Cooperation Wiki"
 description: "A knowledge base on realising opportunities for coordination and collective action - and understanding why it can be hard"
 ---
 
