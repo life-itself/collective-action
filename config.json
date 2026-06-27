@@ -12,6 +12,7 @@
     { "label": "GitHub", "url": "https://github.com/life-itself/collective-action" }
   ],
   "nav": {
+    "title": "Collective Action and Cooperation",
     "links": [
       { "label": "Home", "href": "/" }
     ]
