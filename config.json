@@ -2,6 +2,8 @@
   "title": "Collective Action and Cooperation",
   "theme": "lessflowery",
   "description": "A knowledge base on realising opportunities for coordination — and understanding why we fail.",
+  "logo": "/assets/stag.jpg",
+  "favicon": "/assets/stag.jpg",
   "showBacklinks": true,
   "showToc": true,
   "enableSearch": true,
