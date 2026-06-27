@@ -10,6 +10,10 @@
   "enableRss": true,
   "showBuiltWithButton": true,
   "showEditLink": true,
+  "contentExclude": [
+    "SHARING.md",
+    "CLAUDE.md"
+  ],
   "social": [
     { "label": "GitHub", "href": "https://github.com/life-itself/collective-action" }
   ],
