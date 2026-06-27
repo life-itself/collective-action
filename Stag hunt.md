@@ -1,7 +1,7 @@
 Game with two equilibria: both hunt the stag (best outcome) and both hunt rabbits.
 
 ```
-Stag	Hare
+        Stag	Hare
 Stag	10, 10	1, 8
 Hare	8, 1	5, 5
 ```
