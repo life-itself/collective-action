@@ -4,7 +4,7 @@
   "description": "A knowledge base on realising opportunities for coordination — and understanding why we fail.",
   "showBacklinks": true,
   "showToc": true,
-  "enableSearch": true,
+  "enableSearch": false,
   "enableRss": true,
   "showBuiltWithButton": true,
   "showEditLink": true,
