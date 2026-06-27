@@ -1,7 +1,6 @@
-# Home - Collective Action and Cooperation Knowledgebase
-
-### A knowledge base on realising opportunities for coordination — and understanding why we fail
-
+---
+title: "Home - Collective Action and Cooperation Knowledgebase"
+description: "A knowledge base on realising opportunities for coordination and collective action - and understanding why it can be hard"
 ---
 
 When groups of people — or nations, or organisations — could all be better off by working together, why do they so often fail to do so? And when coordination *is* possible, what makes it happen?
@@ -10,11 +9,15 @@ These are among the most consequential questions of our time. The opportunities 
 
 Yet we consistently fall short. Individually rational choices aggregate into collectively irrational outcomes. Shared resources get depleted. Global agreements collapse. Technologies race ahead of governance. The gap between what *could* be achieved through cooperation and what *is* achieved is one of the great tragedies of human organisation.
 
-This knowledge base explores both sides: the opportunity and the failure. It draws on game theory, economics, political science, and history to map the landscape of collective action — the structures that make cooperation possible, the dynamics that undermine it, and the interventions that can help.
+![[assets/stag.jpg]]
 
-The applications are urgent and wide-ranging: governing artificial intelligence and other powerful technologies, addressing climate change and managing environmental commons, preserving shared information ecosystems, building international institutions that actually work.
+*The [[Stag hunt]] and [[Prisoner's Dilemma]] are classic stories of the benefits of cooperation and why it can fail*
 
-This is also the companion knowledge base for an upcoming course on collective action and cooperation. Notes, concepts, and key ideas are collected here as the course develops — think of it as a living wiki.
+This knowledge base explores both the opportunity and the failure. It will include game theory, economics, political science, and history and many examples. What are the cultures, worldviews and structures that make cooperation possible? What undermine it, and what are some of the possible things we can do to help make cooperation more likely?
+
+The issues are urgent and wide-ranging: governing artificial intelligence and other powerful technologies, addressing climate change and managing environmental commons, preserving shared information ecosystems, building international institutions that actually work.
+
+This is also the companion knowledge base for an upcoming course on collective action and cooperation -- pre-register here https://luma.com/iydwcpau. Notes, concepts, and key ideas will be collected here and as the course develops as a living wiki.
 
 ## Key themes
 
@@ -28,7 +31,7 @@ This is also the companion knowledge base for an upcoming course on collective a
 ## Key concepts
 
 - [[Prisoner's Dilemma]]
-- [[Stag Hunt]]
+- [[Stag hunt]]
 - [[Tragedy of the Commons]]
 - [[Public Goods]]
 - [[Nash Equilibrium]]
