@@ -19,13 +19,11 @@ This is a prototype. The material is being developed as the course runs, and the
 
 ## About
 
-Collective action failure is, I think, the central pattern of dysfunction underneath the [metacrisis](https://metacrisis.info). It's underneath climate change, the AI arms race, nuclear weapons and bioweapons. It's also underneath things we don't usually file together with those, like nihilism and loneliness.
+Collective action failure is the central pattern of dysfunction underneath the [metacrisis](https://metacrisis.info). It's underneath climate change, the AI arms race, nuclear weapons and bioweapons. It's also underneath things like nihilims and loneliness that we don't usually associate with those.
 
-Most people reading this will already agree with that. So the course spends its time on the machinery rather than the diagnosis: why these failures happen, how we can cooperate anyway, what has actually been tried, and what made cooperation work at larger and larger scales.
+The question is: what can we do about it? To the extent we're interested in collective action *problems* it is because we want *solutions*. But we have to start with diagnosis: what is a collective action failure -- and success -- and and what causes them. We then want to look at what could be done and especially what made cooperation work at larger and larger scales.
 
-It ends up somewhere fairly specific. Every jump in the scale of human cooperation — band, village, chiefdom, city, nation — came from a cultural innovation: ritual, kinship, religion, law, money, the firm. Cultural evolution is how collective action gets solved at scale. The last two sessions are about what that implies for the jump we're currently failing to make, and about the cost, which is that every enlargement of the circle so far has been paid for by whoever was outside it.
-
-The first half is game theory. It's built from scratch and assumes none.
+Every jump in the scale of human cooperation — band, village, chiefdom, city, nation — came from a cultural innovation: ritual, kinship, religion, law, money, the firm. Cultural evolution is how collective action gets solved at scale. The last two sessions are about what that implies for the jump we currently need to to make: to planetary cooperation.
 
 ## Course outline
 
@@ -33,34 +31,35 @@ The first half is game theory. It's built from scratch and assumes none.
 
 Why should we care about collective action problems? How do they relate to climate change, runaway AI and the metacrisis in general?
 
-- Introduction to collective action, and the pattern underneath the metacrisis
-- Opening cases, successes and failures — from small groups to the AI labs
-- Cooperation in other species, and why it isn't reliable in ours
-- Agriculture as the original collective action breakdown
+- Introduction to collective action
+- War 
+- Relation to the metacrisis and the big challenges like climate change and technology governance
+- Why this matters so much *now*
 
 ### Session 2: Stag & Moloch
 
-The basic dynamics of cooperation and defection. Why do rational, decent people end up in outcomes none of them want?
+Why do rational, decent people end up in outcomes none of them want? The basic dynamics of cooperation and defection with basic theoretical frameworks and key terminology.
 
 - Prisoner's dilemma, stag hunt, tragedy of the commons, public goods and free riding
-- Why defection is not a deficiency — nobody in these stories is stupid or wicked
+- Some basic game theory
 - Reframing: a collective action problem is a collective action opportunity
-- The many names — multipolar trap, race to the bottom, Moloch — and why I don't much like the last one
+- The many names — multipolar trap, race to the bottom, Moloch (and why Moloch is great branding but problematic conceptually)
 
 ### Session 3: How Do We Ever Cooperate?
 
-We do cooperate, constantly, and much of the time it works. What makes that possible, and why does it hold at village scale?
+We do cooperate, constantly. What makes that possible, and why does it hold at village scale?
 
+- The cooperative ape
 - Olson on group size, selective incentives and privileged groups
 - Repeated interaction and the folk theorem — observation, punishment, the shadow of the future
 - Axelrod and Nowak on the evolution of cooperation
 - Ostrom's design principles, and what real communities do to govern a commons
-- Commons we can overuse, and commons we have to create — two different problems
-- Why all of this stops working among strangers
+- Commons we can overuse, and commons we have to create
+- Why this gets harder at scale
 
 ### Session 4: Cooperation Among Strangers
 
-How do you make cooperation work when the group is too large to watch itself? What have we built, and what has actually worked?
+How do you make cooperation work when the group is larger? What have we built, and what has actually worked?
 
 - Coercion, Hobbes, and the state as a collective action technology
 - Changing the payoffs: taxes, subsidies, property rights, Coase
@@ -83,14 +82,17 @@ How did we get from bands of 150 to a planet of 8 billion? What innovations made
 
 What would cooperation at planetary scale require? Do we need a planetary religion?
 
-- What modernity already achieved — human rights, international institutions — and why it's stalling
+- What modernity already achieved: human rights, international institutions
 - Why nation-states and markets can't hold AI, climate and the biosphere
-- Why this enlargement is unlike the previous ones: there is no outside to send the bill to
+- Why this enlargement is unlike the previous ones: there is no outside
 - Enlarging the sphere of moral concern at each cultural paradigm shift
-- A love letter to an Earth ending
+- Thichh Nhat Hanh and new religion of Interbeing
 
 ## Who it's for
 
-People working on hard coordination problems — AI governance, climate, commons, institutions, community-building. No prior game theory needed.
+Anyone interested in what lies beneath some of the greatest challenges and opportunities of our time from AI governance to climate change.
 
-Bring a collective action problem you're stuck on if you have one. Reading and materials will be sent before each session.
+This is for you if you're interested topics like the commons, institutional design, cultural evolution, community-building ...
+
+The course is designed in an accessible way with no prior game theory assumed or needed.
+
