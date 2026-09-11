@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "moloch",
+  "project_id": "d6bf6a86-e202-4501-9129-f02312e86f4a"
+}
