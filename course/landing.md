@@ -19,11 +19,11 @@ This is a prototype. The material is being developed as the course runs, and the
 
 ## About
 
-Collective action failure is the central pattern of dysfunction underneath the [metacrisis](https://metacrisis.info). It's underneath climate change, the AI arms race, nuclear weapons and bioweapons. It's also underneath things like nihilims and loneliness that we don't usually associate with those.
+Collective action failure is the central pattern of dysfunction underneath the [metacrisis](https://metacrisis.info). It's underneath climate change, the AI arms race, nuclear weapons and bioweapons. It's also underneath things like nihilism and loneliness that we don't usually associate with those.
 
-The question is: what can we do about it? To the extent we're interested in collective action *problems* it is because we want *solutions*. But we have to start with diagnosis: what is a collective action failure -- and success -- and and what causes them. We then want to look at what could be done and especially what made cooperation work at larger and larger scales.
+The question is: what can we do about it? To the extent we're interested in collective action *problems* it is because we want *solutions*. But we have to start with diagnosis: what is a collective action failure — and success — and what causes them. We then want to look at what could be done and especially what made cooperation work at larger and larger scales.
 
-Every jump in the scale of human cooperation — band, village, chiefdom, city, nation — came from a cultural innovation: ritual, kinship, religion, law, money, the firm. Cultural evolution is how collective action gets solved at scale. The last two sessions are about what that implies for the jump we currently need to to make: to planetary cooperation.
+Every jump in the scale of human cooperation — band, village, chiefdom, city, nation — came from a cultural innovation: ritual, kinship, religion, law, money, the firm. Cultural evolution is how collective action gets solved at scale. The last two sessions are about what that implies for the jump we currently need to make: to planetary cooperation.
 
 ## Course outline
 
@@ -86,7 +86,7 @@ What would cooperation at planetary scale require? Do we need a planetary religi
 - Why nation-states and markets can't hold AI, climate and the biosphere
 - Why this enlargement is unlike the previous ones: there is no outside
 - Enlarging the sphere of moral concern at each cultural paradigm shift
-- Thichh Nhat Hanh and new religion of Interbeing
+- Thich Nhat Hanh and new religion of Interbeing
 
 ## Who it's for
 
