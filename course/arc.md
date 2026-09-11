@@ -1,16 +1,18 @@
 ---
 title: Course Arc
-description: The arc of the collective action course — six sessions, and the modules inside them.
+description: Working plan for the collective action course — six sessions, and the modules inside them.
 ---
 
 # Course Arc
 
-Working plan, v0.2. Two levels:
+Working plan, v0.3. Two levels:
 
 - **Sessions** — the 6 live slots, ~1.5h each. What people sign up for. Wed 7 Oct to Wed 14 Oct 2026, weekdays only (7, 8, 9, 12, 13, 14), 15:30-17:00 CEST.
 - **Modules** — the units of material. Smaller than a session; a session holds 3–6 of them. Research and preparation is organised around modules, not sessions, so they can be moved, cut, or promoted as the material develops.
 
-The spine: **the default is the bad state → why that makes sense → how we get out at small scale → how we get out at large scale → why cultural evolution is the real answer → and why the next jump is unlike every previous one.**
+The spine: **why this matters now → what the failure actually is → how we already cooperate → how cooperation has been made to work among strangers → cultural evolution as the mechanism behind every jump in scale → and the planetary jump we now need.**
+
+We're interested in the problems because we want the solutions. Diagnosis is a stage the course passes through rather than the thing it dwells on.
 
 Audience: advanced, already familiar with the idea of a collective action problem, not necessarily with the game theory. The work is bridging the applied case, the theoretical background, and — where I actually want to get to — the cultural evolution narrative.
 
@@ -28,57 +30,61 @@ Public version of this: [landing.md](landing.md). Raw braindump it came from: [.
 
 This is the portable instrument people take away. Without it the course is cases, theory and history with no tool at the end of it.
 
-**The same diagram at two scales.** Every case gets drawn next to a case six orders of magnitude away. Three activists and a plea bargain next to five AI labs in a race. Lobster grounds next to fisheries. Ilahita next to the planet. The scale jump is the course's whole subject, so make it visible every session rather than announcing it once.
+**The same diagram at two scales.** Every case gets drawn next to a case several orders of magnitude away. A handful of people in a room next to a handful of AI labs in a race. Lobster grounds next to global fisheries. Ilahita next to the planet. The scale jump is the course's whole subject, so make it visible every session rather than announcing it once.
 
 ---
 
-## Session 1 — Why do even environmentalists rat on each other when they get arrested?
+## Session 1 — Metacrisis Motivation
 
-### Module: If a Tree Falls
+*Why should we care about collective action problems? How do they relate to climate change, runaway AI and the metacrisis in general?*
 
-Cold open. [*If a Tree Falls: A Story of the Earth Liberation Front*](https://www.youtube.com/watch?v=qwQoi0DoOKM). People solve a genuinely hard collective action problem — clandestine coordinated action, real cost, real risk, no way to verify each other — and then, once arrested, defect. A textbook prisoner's dilemma, run by the people you'd least expect. Set as prep viewing so the session can be an argument rather than a lecture.
+### Module: Introduction to collective action
 
-### Module: The same shape, six orders of magnitude up
+What the thing is, stated plainly, with a couple of cases. Successes as well as failures — the course is about opportunities as much as problems, and if the first hour is all disaster the rest of the arc reads as consolation.
 
-Immediately pair it with the AI labs. Same 2×2, drawn twice, in the first twenty minutes.
+*[Research pass needed: opening cases and video clips. This is the module with the least material so far.]*
 
-This module exists to prevent a specific misreading: a small-group betrayal story used to motivate planetary problems teaches people that collective action failure is about individuals being treacherous. It isn't. Kill that reading on day one.
+### Module: War
 
-### Module: More cases
+The oldest and largest of them. An arms race is a collective action problem with a body count, and war is also — awkwardly — one of the main things that has ever driven humans to cooperate at larger scales. Both faces here, briefly. Session 5 collects on this with Turchin.
 
-Horatio at the bridge — who steps forward when stepping forward costs you. Foraging animals: cattle turning to face down a predator. Successes and failures both. *[Research pass needed: video clips.]*
+### Module: The pattern beneath the metacrisis
 
-### Module: The pattern beneath everything
-
-The connection to the metacrisis, made explicitly, for this audience.
+The connection made explicitly, for this audience.
 
 This is the central pattern of dysfunction. It sits beneath climate change. Beneath the AI arms race, nuclear weapons, bioweapons — each one of us might want to stop, or go slower, and we can't. And beneath nihilism, anomie, loneliness too: it makes sense to me to sit in my room and watch Netflix when everyone else is doing whatever they're doing.
 
 There is a collective action problem of us.
 
-### Module: Agriculture, the original breakdown
+### Module: Why this matters so much now
 
-Closing the session on the great arc of history. Hunter-gatherers had a pretty good life, and then there was the fall into agriculture — which was also a collective action failure, and no one chose it. Note that this one is not an opportunity: it is going from a state that was good into a less good state.
+Why the present moment is different: the speed of technology relative to governance, the number of players who can now do civilization-scale damage, and the fact that the remaining problems are the ones that are global by construction and so can't be solved at any smaller scale.
 
-It also plants the seed for Session 5's sting — this was cooperation at *larger* scale, and it made most people worse off.
+### Prep and materials
+
+*If a Tree Falls: A Story of the Earth Liberation Front* goes out as prep viewing rather than being taught as a module. People who did a genuinely hard piece of cooperation for years, then informed on each other within weeks of arrest. It's the cleanest illustration available that this isn't about bad character, and it's worth having in the room without spending session time on it.
 
 ---
 
-## Session 2 — Why don't rational people cooperate?
+## Session 2 — Stag & Moloch
+
+*Why do rational, decent people end up in outcomes none of them want? The basic dynamics of cooperation and defection, with the theoretical frameworks and key terminology.*
 
 ### Module: The games
 
-Prisoner's dilemma, stag hunt, tragedy of the commons, public goods and free riding. Three or four games done properly, not a survey.
+Prisoner's dilemma, stag hunt, tragedy of the commons, public goods and free riding. Three or four done properly, not a survey.
 
-Keep the distinction that does real work: dilemma vs coordination vs assurance. Different problems, different fixes — and the stag hunt is the one the optimistic half of the course title rests on.
+Keep the distinction that does real work: dilemma vs coordination vs assurance. Different problems, different fixes — and the stag hunt is what the optimistic half of the course title rests on.
 
-### Module: Defection is not a deficiency
+### Module: Some basic game theory
 
-The message I most want to land. It is rational, it makes sense, no villain required. And yet we do have the ability to cooperate — that's the puzzle, not the defection.
+The minimum apparatus: payoff matrices, dominant strategies, Nash equilibrium, why an equilibrium can be stable and terrible at the same time. Built from scratch, no prior exposure assumed.
+
+The point underneath it: defection is not a deficiency. It's rational, it makes sense, no villain required. And yet we do cooperate — that's the puzzle, not the defection. Any account that locates the problem in people being unenlightened has misread the situation and will prescribe accordingly.
 
 ### Module: The reframe
 
-The framing in the literature isn't attractive. Even the prisoner's dilemma is a story about prisoners betraying each other. But you could see it the other way round: it is a cooperation opportunity, a cooperation challenge. Not a collective action *problem* but a collective action *opportunity*.
+The framing in the literature isn't attractive. Even the prisoner's dilemma is a story about prisoners betraying each other. Turned around, it is a cooperation opportunity, a cooperation challenge. Not a collective action *problem* but a collective action *opportunity*.
 
 And the direction of the question changes with it. Not "there's a good state and we fell into the bad one" — the bad state is the default. What's the bad state, and how do we get into the good?
 
@@ -86,23 +92,25 @@ And the direction of the question changes with it. Not "there's a good state and
 
 Moloch and the Scott Alexander piece, which many people will know. The multipolar trap. Race to the bottom, arms race, social dilemma, coordination failure — the same structure named in a dozen literatures.
 
-And why I don't much like Moloch as a framing: it personifies a structure, and makes it fate rather than a design problem. Worth saying plainly that half the course title is a word I intend to argue with.
+Moloch is great branding and conceptually problematic: it personifies a structure, and turns a design problem into fate. Worth saying plainly that half the course title is a word I intend to argue with.
 
 ---
 
-## Session 3 — Are we doomed? Escape routes at village scale
+## Session 3 — How Do We Ever Cooperate?
 
-Is there no way out? Can we cooperate?
+*We do cooperate, constantly. What makes that possible, and why does it hold at village scale?*
+
+### Module: The cooperative ape
+
+Start from the fact rather than the puzzle. We are an unusually cooperative species, and cooperation is not a human invention either — the animal cases go here. Then the actual question: given that we're built for it, what conditions does it need, and what makes those conditions fail?
 
 ### Module: Olson
 
 *The Logic of Collective Action* — the founding text, and the cleanest answer to why small groups manage and large ones don't. Group size, latent groups, selective incentives, and the privileged group where one player is large enough to provide the good alone.
 
-Put him first: he's the baseline everything else in the session improves on.
-
 ### Module: Repeated interaction and the folk theorem
 
-Repetition changes everything: the shadow of the future. What the folk theorem actually needs — regular interaction, the ability to observe, the ability to punish people who don't cooperate. Note that this is questions 2, 3 and 4 of the diagnostic, which is not a coincidence.
+Repetition changes everything: the shadow of the future. What it actually needs — regular interaction, the ability to observe, the ability to punish people who don't cooperate. Note that this is questions 2, 3 and 4 of the diagnostic, which is not a coincidence.
 
 ### Module: The evolution of cooperation
 
@@ -110,21 +118,23 @@ Axelrod's tournaments; Nowak, repeated interaction on a grid, spatial structure,
 
 ### Module: Ostrom and the commons
 
-Ostrom's design principles as the empirical version of the same ingredient list. *[I don't know Ostrom's work as well as I probably should — this is the module needing most research.]*
+The design principles as the empirical version of the same ingredient list, and what real communities actually do to govern a commons. *[I don't know Ostrom's work as well as I probably should — this is the module needing most research.]*
 
 Distinguish kinds of commons, because they are not the same problem:
 - **Positive commons** — the information commons. Things we need to *create*, where the failure is undersupply.
-- **Subtractable commons** — lobster gangs, alpine grazing. Things we can *overuse*, where the failure is depletion.
+- **Subtractable commons** — lobster grounds, alpine grazing. Things we can *overuse*, where the failure is depletion.
 
-### Module: The scale limit
+### Module: Why this gets harder at scale
 
-Everything in this session depends on repetition, observation and punishment among people who know each other. With strangers it breaks. Hand over to Session 4.
+Everything in this session depends on repetition, observation and punishment among people who know each other. Hand over to Session 4.
 
 ---
 
-## Session 4 — What do you do when you can't see who defected?
+## Session 4 — Cooperation Among Strangers
 
-The mechanisms that don't need a village. This session is where the practitioners in the room get paid.
+*How do you make cooperation work when the group is larger? What have we built, and what has actually worked?*
+
+The session where the practitioners in the room get paid.
 
 ### Module: Coercion
 
@@ -138,19 +148,19 @@ Taxes, subsidies, property rights, Coase. Markets as cooperation technology, and
 
 Focal points, credible commitment, cooperating with an adversary you cannot trust, the strategy of conflict. He was writing about nuclear arms races and the AI version rhymes closely. Given how many people will come for the AI framing, this may be the highest-value module in the course.
 
-### Module: Nesting and polycentricity
+### Module: Polycentricity
 
-Ostrom's eighth design principle, and the bridge the course would otherwise be missing. Session 3 ends "it breaks at scale"; Session 5 answers "culture". This is the second answer, and the practical one: you don't scale a village, you stack villages. Federation all the way up.
+Ostrom's answer to scale, and the bridge the course would otherwise be missing. Session 3 ends "it gets harder at scale"; Session 5 answers "culture". This is the second answer, and the practical one: you don't scale a village, you stack villages. Federation all the way up.
 
 ### Module: Did it ever work?
 
-The applied record, and the most directly useful hour in the course. Montreal against Kyoto. Nuclear non-proliferation. Fisheries. Why some worked and most didn't, and what the difference turns on — number of players, cost of monitoring, availability of substitutes, observability of defection. Run the diagnostic on each, live.
+The applied record, and the most directly useful hour in the course. Montreal against Kyoto. Nuclear non-proliferation. Fisheries. Why some worked and most didn't, and what the difference turned on — number of players, cost of monitoring, availability of substitutes, observability of defection. Run the diagnostic on each, live.
 
 ---
 
-## Session 5 — How did we get from 150 people to 8 billion?
+## Session 5 — Cultural Evolution
 
-Cultural evolution as the answer.
+*How did we get from bands of 150 to a planet of 8 billion? What innovations made each jump possible?*
 
 ### Module: Multi-level selection
 
@@ -162,7 +172,7 @@ Ilahita — ritual, initiation, fictive kinship holding together a village of th
 
 ### Module: War as ratchet
 
-Turchin, *Ultrasociety*. War as the brutal selection pressure that ratchets cooperating group size up and up.
+Turchin, *Ultrasociety*. War as the brutal selection pressure that ratchets cooperating group size up and up. Collects on the war module from Session 1.
 
 ### Module: Costly signals and Big Gods
 
@@ -178,42 +188,44 @@ Frame for the whole session: religion, ritual, law, money, the firm are all coll
 
 The sting, and the strongest teaching moment in the course. Don't paper over the contradiction — surface it.
 
-Cooperation scales by building in-groups, and an in-group needs an out-group. Turchin's ratchet is *war*: cooperation manufactured for the purpose of killing the neighbors. Agriculture, back in Session 1, was cooperation at larger scale that made most people worse off. Every enlargement of the circle so far has been paid for by whoever was left outside it.
+Cooperation scales by building in-groups, and an in-group needs an out-group. Turchin's ratchet is *war*: cooperation manufactured for the purpose of killing the neighbors. Every enlargement of the circle so far has been paid for by whoever was left outside it.
 
-End the session on that and let it hang overnight.
+**Agriculture belongs here.** Hunter-gatherers had a pretty good life, and then there was the fall into farming, which no one chose and which made most people worse off for millennia. It's the earliest case of cooperation at larger scale leaving most participants worse off, so it's evidence for the bill rather than a separate story. *(Moved out of Session 1 — it works better as the sting than as the opener.)*
+
+End the session there and let it hang overnight.
 
 ---
 
-## Session 6 — Can the circle close?
+## Session 6 — The Planetary Turn
+
+*What would cooperation at planetary scale require? Do we need a planetary religion?*
 
 ### Module: What modernity already did
 
-We're all brothers and sisters, human rights, international institutions. That enlargement was real. It is also incomplete, and right now it is stalling.
+Human rights, international institutions, we're all brothers and sisters. That enlargement was real. It's also incomplete.
 
 ### Module: Why the current stack can't hold
 
 Nation-states and markets against AI, climate, the biosphere.
 
-### Module: The first enlargement with no out-group
+### Module: The first enlargement with no outside
 
-The answer to Session 5's sting, and the reason this jump is not simply the next in a series. Every previous enlargement had an outside — to define itself against, to compete with, and to send the bill to. This one has none. No external enemy, nobody to defect against, nobody to pay. Which is exactly why more of what worked before will not do, and why the thing we need has to be genuinely new.
+The answer to Session 5's sting, and the reason this jump is not simply the next in a series. Every previous enlargement had an outside — to define itself against, to compete with, to send the bill to. This one has none. No external enemy, nobody to defect against, nobody to pay. Which is exactly why more of what worked before will not do.
 
 ### Module: Enlarging the sphere of concern
 
 The integral point, and the actual mechanism of the whole course: at each cultural paradigm shift — pre-modernity to modernity and onward — we enlarge the zone of our moral concern and care.
 
-### Module: A planetary religion?
+### Module: Interbeing
 
-We need planetary cooperation, and that means we need something that binds us together as humanity. Whether 'religion' is the honest word for it.
-
-Close: a love letter to an Earth ending.
+Thich Nhat Hanh, and Interbeing as a candidate for the binding we'd need. If planetary cooperation requires something that holds us together as humanity, this is the most developed living attempt at it, and the honest question is whether 'religion' is the word for what's required.
 
 ---
 
 ## Open questions and to-dos
 
-- **Examples.** Research pass still to do — video clips, cases, both successes and failures. Session 1 needs the most.
+- **Session 1 examples.** The research pass still to do — cases and video clips, successes and failures. Session 1 needs the most and currently has the least.
 - **Ostrom.** The module I know least well. Needs real reading.
 - **Session 4 is dense.** Five substantial modules including the applied record. If anything overflows, *Changing the payoffs* is the compressible one, since the audience is least likely to need convincing on it.
-- **Format.** Prepared material plus discussion, versus lecture and improvise. Sessions 3 and 4 are where prepared reading would actually pay off; 1 and 6 probably work better cold.
+- **Format.** Prepared material plus discussion, versus lecture and improvise. Sessions 3 and 4 are where prepared reading would pay off; 1 and 6 probably work better cold.
 - **Prep.** *If a Tree Falls* before Session 1. Consider one short reading before Session 4.
