@@ -61,6 +61,9 @@ run the tells/protections/self-check pass, not just the profile.
 
 ## Working on the course
 
+**Start with [NEXT.md](NEXT.md)** — where things stand and what to do next.
+
+
 Course material lives in `course/`. The public outline is `course/landing.md`;
 the working plan with all modules is `course/arc.md`.
 
