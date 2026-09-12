@@ -1,7 +1,7 @@
 {
   "title": "Collective Action and Cooperation Wiki",
   "theme": "lessflowery",
-  "description": "A knowledge base on realising opportunities for coordination — and understanding why we fail.",
+  "description": "A knowledge base on realising opportunities for coordination \u2014 and understanding why we fail.",
   "logo": "/assets/stag.jpg",
   "favicon": "/assets/stag.jpg",
   "showBacklinks": true,
@@ -12,15 +12,25 @@
   "showEditLink": true,
   "contentExclude": [
     "SHARING.md",
-    "CLAUDE.md"
+    "CLAUDE.md",
+    "AGENTS.md",
+    "raw/**",
+    "docs/**",
+    ".beads/**"
   ],
   "social": [
-    { "label": "GitHub", "href": "https://github.com/life-itself/collective-action" }
+    {
+      "label": "GitHub",
+      "href": "https://github.com/life-itself/collective-action"
+    }
   ],
   "nav": {
     "title": "Collective Action and Cooperation",
     "links": [
-      { "label": "Home", "href": "/" }
+      {
+        "label": "Home",
+        "href": "/"
+      }
     ]
   }
 }
