@@ -1,11 +1,11 @@
 ---
 title: Recommended shortlist
-description: 18 examples selected from the 120 candidates, with the criteria used and what each one is for.
+description: The recommended cut from 176 candidates, with the criteria used and what each one is for.
 ---
 
 # Recommended shortlist
 
-Cut from the [120 candidates](index.md). The full lists stay as a research
+Cut from the [176 candidates](index.md). The full lists stay as a research
 database — this is what to actually use, and each entry says what job it does.
 
 ## Criteria
@@ -156,13 +156,97 @@ recency or bison for the images, and keep the rest in the database.
 
 **Kyoto on its own.** Only teaches inside the controlled comparison above.
 
-## Known gaps
+---
 
-**Warfare and cohesion** — what makes a phalanx hold, Marathon, Thermopylae,
-Socrates in the line. Being researched separately (`moloch-dhe.7`); the current
-lists only cover cooperation *despite* war.
+## Additions from the warfare and fiction hunts
 
-**Fiction and film** — being researched separately (`moloch-dhe.8`).
+Both gaps are now filled, and the material is strong enough to displace some of
+the above. These are the promotions.
+
+### Warfare — the mechanisms of cohesion
+
+**The syssitia** (Spartan common messes) — three cheap mechanisms stacked. Daily
+compulsory attendance makes absence instantly observable to the fifteen men who
+will stand beside you in the line. A fixed food contribution is a recurring
+costly signal, with loss of citizenship as the penalty for failing it. Admission
+is by unanimous ballot, so every member has been vouched for individually by
+every other. This is the direct answer to "what did it take to make hoplites".
+It also carries its own bill — the quota required land, and land required
+helots, which feeds S5. **S3, S5.**
+
+**The tresantes** (Spartan "tremblers") — the sharpest case in the entire set for
+a problem nothing else covers: *who punishes the punishers*. A death penalty has
+to be administered by someone and is over quickly. Social death is administered
+by everyone, at zero cost, continuously, by exactly the people whose regard the
+sanction runs on. Plutarch's report that Agesilaus let the laws "sleep for a day"
+after Leuctra is the tell that it only worked while the numbers were small.
+**S3.**
+
+**Decimation and the fustuarium** — two mechanisms usually conflated. The
+*fustuarium* conscripts the punishers: the condemned man's own comrades do the
+killing, so enforcement costs the state nothing and implicates them in it.
+Decimation deliberately severs guilt from punishment by drawing lots, and what
+that buys is collective liability — since you may die for your neighbour's
+flight, you now have a reason to stop him running. **S3, S4.**
+
+**The hoplite shield wall** — each man's shield partly covers the man to his
+left, so the line is a public good that collapses if anyone runs: mutual
+hostage-taking plus total observability. Thucydides (5.71) on the rightward drift
+of advancing phalanxes is the evidence that individual incentives pull against
+the formation even while it holds. **S1, S3.**
+
+**The Plataean breakout** (Thucydides 3.20-24) — the unexpected find. Counting
+bricks in the enemy wall by having many men count independently is aggregation
+substituting for measurement. Roughly half the men who agreed to go lost their
+nerve at the moment of escape — and because they did, the escape got *safer* for
+those who went. Free riding that helps is rare enough to be worth a slide.
+**S1, S3.**
+
+**Krentz's casualty ratio** — losers roughly 14%, winners roughly 5%, in Greek
+hoplite battle. The quantitative statement of why the line holds: almost all the
+dying happens after it breaks. Pairs with Caporetto for the same phenomenon two
+millennia later. **S3.**
+
+### Fiction — clips that stand alone
+
+**Dr. Strangelove**, the War Room doomsday-machine exchange (~5 min) — the
+characters explain the theory inside the scene: a commitment device must be
+automatic *and* announced, and a secret one is worthless. Almost certainly the
+highest-value clip in the course for the Schelling module, which is the module
+the AI-interested part of the audience is coming for. **S4.**
+
+**Norma Rae**, the UNION sign (~3 min) — a threshold cascade rendered almost
+without dialogue, in sound, as the machines shut off one by one. The cleanest
+*success* available as a clip, and S1 needs one early. **S1, S3.**
+
+**Twelve Angry Men**, the secret ballot (~4 min) — a mechanism deliberately
+designed to break an information cascade, shown working. **S2, S3.**
+
+**Battleship Potemkin**, the firing squad — silent, public domain, and it plays
+to an audience that has never heard of 1905. **S1.**
+
+### What these displace
+
+The list is now around 24, which is too many. I'd cut **the liberum veto** (the
+institutional-design point is made better by decimation, where the rule
+*creates* the incentive rather than destroying one), **the Danish rescue**
+(Norma Rae carries "people acted at real risk" better as a clip, and with a
+mechanism attached), and one of **Anglo-German / Washington Naval** — keep the
+pair only if S4 has room, since Dr. Strangelove now does the commitment-device
+work more vividly.
+
+That lands at 20.
+
+## Notes on the fiction list
+
+Four entries — Thucydides, Xenophon, *Things Fall Apart*, *The Plague* — are
+marked prep reading rather than in-session material, since no usable footage
+exists. Weak fits are flagged as weak: *Jaws* has no defection in it and is
+better used as the shape of a climate argument than as a game; *The Dark Knight*
+ferries is closer to mutual deterrence with a deadline than a strict prisoner's
+dilemma. Two structures came back genuinely thin — commons collapse as plot
+(fiction wants a villain and a commons failure has none, so documentary serves
+better) and coordination without communication.
 
 ## Expanding any of these
 
