@@ -22,6 +22,6 @@ Every jump in the size of a cooperating human group came from a cultural innovat
 
 ## The mechanism, and its cost
 
-- [[Peter Turchin]], [[Ultrasociety]], [[War as ratchet]]
+- [[Peter Turchin]], [[Ultrasociety]], [[War as ratchet]] — [[Chadwick on the inevitability of the bomb]]
 - [[In-group and out-group]] — [[The bill]]
 - [[Agricultural revolution]] — cooperation at larger scale that left most people worse off
