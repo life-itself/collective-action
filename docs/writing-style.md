@@ -5,6 +5,12 @@ description: Tone of voice for notes in this wiki, and how to keep close to Rufu
 
 # Writing style
 
+> **Scope, as of 2026-09-12.** This applies to **course-facing material** — the
+> landing page, session scripts, decks. It does **not** apply to wiki notes or
+> research material, where voice is deliberately deferred: write plainly and
+> accurately, and a systematic voice sweep happens later in one pass. See
+> [delegation.md](delegation.md).
+
 Read this before writing any note. Structure rules are in
 [wiki-conventions.md](wiki-conventions.md); this is about how it reads.
 

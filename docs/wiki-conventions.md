@@ -94,13 +94,32 @@ it marks a note worth writing.
 Every atomic note should be reachable: linked from at least one module master
 note or one map of content. An unlinked note is invisible.
 
-## Sources
+## Sources and excerpts
 
 Cite properly — author, title, year, and a link where one exists. Never
 attribute a claim vaguely ("studies show", "researchers argue"). If the source
 can't be named, the claim doesn't go in.
 
-Quotes are quoted and attributed. Paraphrase is marked as paraphrase.
+**Every note should carry at least one direct excerpt as a markdown blockquote,
+attributed.** The author's own words, not a paraphrase. This matters more than
+polish: a note that quotes Ostrom and says where it came from is worth much more
+than one that summarises her.
+
+```markdown
+> Excerpt in the author's own words.
+
+— Elinor Ostrom, *Governing the Commons* (1990), p. 90
+```
+
+Quoting safely:
+
+- Keep excerpts short, a sentence or two. Never reproduce substantial portions
+  of an in-copyright work.
+- Public-domain sources can be quoted more freely — Hobbes, Thucydides, Plato,
+  Xenophon, Smith, Hume. Prefer these where a longer passage helps.
+- For living authors and recent work, quote briefly and cite precisely.
+- Never quote from a source you haven't read directly. If it comes from someone
+  else quoting it, say so.
 
 ## Definition of done
 
@@ -110,4 +129,6 @@ A research or note-writing task is done when:
 2. They are linked from the relevant module master note.
 3. That master note is linked from the relevant map of content.
 4. Sources are cited.
-5. The tone matches [writing-style.md](writing-style.md).
+5. At least one attributed excerpt is present as a blockquote.
+
+Voice is not a criterion at this stage — see [delegation.md](delegation.md).

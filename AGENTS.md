@@ -74,6 +74,9 @@ Longer internal docs live in `docs/` and are not published:
   naming, linking, and what counts as done. **Read before writing any note.**
 - [docs/writing-style.md](docs/writing-style.md) — tone of voice, and how to use
   the `soundlikeme` skill. **Read before writing any note.**
+- [docs/delegation.md](docs/delegation.md) — which model runs which bead, and
+  what a note must contain. **Voice is deferred for wiki notes; excerpts are
+  not.**
 - [docs/plans/2026-09-12-course-prep-design.md](docs/plans/2026-09-12-course-prep-design.md)
   — how the course prep work is organised.
 
