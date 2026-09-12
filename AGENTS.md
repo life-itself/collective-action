@@ -59,6 +59,27 @@ For drafting in Rufus's voice specifically, use the `soundlikeme` skill at
 `~/src/rufuspollock/soundlikeme` with the `rufus-pollock` profile — and actually
 run the tells/protections/self-check pass, not just the profile.
 
+## Working on the course
+
+Course material lives in `course/`. The public outline is `course/landing.md`;
+the working plan with all modules is `course/arc.md`.
+
+Research and preparation work is tracked in beads (`bd list`). Modules are the
+backbone and sessions are `session-N` labels, so moving a module between
+sessions is a label edit rather than a re-parenting.
+
+Longer internal docs live in `docs/` and are not published:
+
+- [docs/wiki-conventions.md](docs/wiki-conventions.md) — note types, tags,
+  naming, linking, and what counts as done. **Read before writing any note.**
+- [docs/writing-style.md](docs/writing-style.md) — tone of voice, and how to use
+  the `soundlikeme` skill. **Read before writing any note.**
+- [docs/plans/2026-09-12-course-prep-design.md](docs/plans/2026-09-12-course-prep-design.md)
+  — how the course prep work is organised.
+
+`raw/` holds unedited dictation and private notes. Not published, and not a
+source to quote from directly.
+
 ## Publishing
 
 Changes merged to `main` are published automatically via Flowershow.
