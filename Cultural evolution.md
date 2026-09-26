@@ -19,6 +19,7 @@ Every jump in the size of a cooperating human group came from a cultural innovat
 - [[Ilahita]] — [[Fictive kinship]] and [[Initiation ritual]]
 - [[Costly signaling]], [[Richard Sosis]], [[Big Gods]], [[Ara Norenzayan]]
 - [[Joseph Henrich]], [[WEIRD]], [[Kin networks]]
+- [[Curtin et al on Zapotec cooperative institutions]] — two institutions in one village, different mechanisms in each
 
 ## The mechanism, and its cost
 

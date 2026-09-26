@@ -26,3 +26,4 @@ Not one problem but two, with different failure modes and different fixes.
 - [[Elinor Ostrom]]
 - [[Ostrom design principles]]
 - [[Polycentricity]] and [[Subsidiarity]] — the answer to scale
+- [[Curtin et al on Zapotec cooperative institutions]] — a working village commons-type institution, dissected by mechanism
