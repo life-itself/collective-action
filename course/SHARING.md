@@ -13,9 +13,19 @@ Private, invite-only for this prototype run. Send to individuals and small group
 - €20, refunded if you attend all 6
 - Prototype: the material is developed as the course runs
 
+## Tagline
+
+From arms races to planetary cooperation.
+
+*Sub-tagline:* Moloch, the metacrisis, and how cooperation scales.
+
 ## One-liner
 
-Six sessions on why cooperation fails, how we manage it anyway, and how it has been made to work at larger and larger scales.
+Why cooperation fails, how it succeeds, and how it scales.
+
+## Description (SEO / link previews)
+
+A short online course on why cooperation fails, how it succeeds, and how it scales – from arms races and the commons to AI, climate and the metacrisis.
 
 ## Short message (Signal / WhatsApp / DM)
 
@@ -46,4 +56,4 @@ Rufus
 
 ## Short post (for later, if it goes public)
 
-Prototype course, Oct 2026: Intro to Collective Action. 6 online sessions on why cooperation fails, how we manage it anyway, and how cultural evolution scaled it up – with applications to AI, climate and nuclear weapons. €20, refunded if you attend all 6. https://secondrenaissance.net/course/collective-action
+Intro to Collective Action – from arms races to planetary cooperation. A short online course on why cooperation fails, how it succeeds, and how it scales – with applications to AI, climate and nuclear weapons. €20, refunded if you attend all 6. https://secondrenaissance.net/course/collective-action
