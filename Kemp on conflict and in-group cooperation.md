@@ -3,7 +3,7 @@ title: Kemp on conflict and in-group cooperation
 description: Luke Kemp's summary of the evidence that external threat strengthens cooperation within a group, at the cost of hostility toward outsiders.
 ---
 
-Refs: [[Bauer et al on war and cooperation]] [[Churchill on war as the human default]] [[Cultural evolution]]
+Refs: [[Kemp and the rise of the state as collective action failure]] [[Bauer et al on war and cooperation]] [[Churchill on war as the human default]] [[Cultural evolution]]
 
 ## Summary
 
