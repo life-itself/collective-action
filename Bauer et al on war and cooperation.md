@@ -3,7 +3,7 @@ title: Bauer et al on war and cooperation
 description: A 2016 review of about 20 studies finding that individual exposure to war violence tends to raise local cooperation, mostly toward the in-group.
 ---
 
-Refs: [[Churchill on war as the human default]] [[Cultural evolution]] [[Cooperation at scale]]
+Refs: [[Kemp on conflict and in-group cooperation]] [[Churchill on war as the human default]] [[Cultural evolution]] [[Cooperation at scale]]
 
 ## Summary
 
