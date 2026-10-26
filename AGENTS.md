@@ -64,7 +64,7 @@ run the tells/protections/self-check pass, not just the profile.
 **Start with [NEXT.md](NEXT.md)** — where things stand and what to do next.
 
 
-Course material lives in `course/`. The public outline is `course/landing.md`;
+Course content lives in `course/`. Marketing and the public outline live in `~/src/life-itself/courses/collective-action/marketing/`;
 the working plan with all modules is `course/arc.md`.
 
 Research and preparation work is tracked in beads (`bd list`). Modules are the
