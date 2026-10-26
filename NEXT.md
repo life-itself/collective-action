@@ -35,12 +35,12 @@ Start at the shortlist, not the index. The
 ## What's done
 
 - Course outline: [course/arc.md](course/arc.md) (working plan, six sessions,
-  33 modules) and [course/landing.md](course/landing.md) (public page).
+  33 modules) (the public page now lives in courses/collective-action/marketing/).
 - Course named **Intro to Collective Action** (2026-09-25). Landing page live at
   <https://secondrenaissance.net/course/collective-action>, in the Course nav;
   the page source is `course/collective-action.md` in the secondrenaissance.net
-  repo. `course/landing.md` here is a synced copy. Invite blurbs in
-  [course/SHARING.md](course/SHARING.md). Invite-only run, no Substack for now.
+  repo; a copy and the invite blurbs are in
+  `~/src/life-itself/courses/collective-action/marketing/`. Invite-only run, no Substack for now.
 - Open on the page: session format, recordings, reading between sessions.
 - 159 beads. Modules are the backbone; sessions are `session-N` labels.
 - Six candidate hunts complete: historical failures, historical successes,

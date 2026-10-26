@@ -12,7 +12,7 @@ How notes are structured here. Read this before writing any note, and read
 
 ```
 /                 wiki, published — atomic notes, module master notes, MOCs
-course/           course material — arc.md, landing.md, scripts/, decks/
+course/           course material — arc.md, scripts/, decks/
 docs/             internal docs like this one — not published
 raw/              dictation and private notes — not published
 ```

@@ -16,7 +16,7 @@ We're interested in the problems because we want the solutions. Diagnosis is a s
 
 Audience: advanced, already familiar with the idea of a collective action problem, not necessarily with the game theory. The work is bridging the applied case, the theoretical background, and — where I actually want to get to — the cultural evolution narrative.
 
-Public version of this: [landing.md](landing.md). Raw braindump it came from: [../raw/2026-09-11-course-outline-braindump.md](../raw/2026-09-11-course-outline-braindump.md).
+Public version: https://seedsofrenaissance.org/courses/collective-action (source: sor-website/src/course/collective-action.md). Raw braindump it came from: [../raw/2026-09-11-course-outline-braindump.md](../raw/2026-09-11-course-outline-braindump.md).
 
 ## Two devices running through the whole course
 
