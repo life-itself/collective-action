@@ -1,4 +1,5 @@
 assets/_scratch
+/sandbox/
 
 # Beads / Dolt files (added by bd init)
 .dolt/
