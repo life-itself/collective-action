@@ -7,7 +7,7 @@ description: Working plan for the collective action course — six sessions, and
 
 Working plan, v0.3. Two levels:
 
-- **Sessions** — the 6 live slots, ~1.5h each. What people sign up for. Starts 29 Oct 2026 (moved on 2026-10-05 from the original Wed 7 – Wed 14 Oct, weekdays, 15:30-17:00 CEST); exact session dates to confirm.
+- **Sessions** — the 6 live slots, ~1.5h each. What people sign up for. Starts Wed 28 Oct 2026 (moved from the original Wed 7 – Wed 14 Oct); live sessions Wed 28, Thu 29, Fri 30, 15:30-17:00 CEST.
 - **Modules** — the units of material. Smaller than a session; a session holds 3–6 of them. Research and preparation is organised around modules, not sessions, so they can be moved, cut, or promoted as the material develops.
 
 The spine: **why this matters now → what the failure actually is → how we already cooperate → how cooperation has been made to work among strangers → cultural evolution as the mechanism behind every jump in scale → and the planetary jump we now need.**
