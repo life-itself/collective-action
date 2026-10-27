@@ -7,7 +7,7 @@ date: 2026-09-12
 # Course prep: design of the work
 
 Design for planning and delegating the research and preparation behind the
-[collective action course](../../course/arc.md). Agreed 2026-09-12.
+collective action course (arc now at `courses/collective-action/arc.md` in the private courses repo). Agreed 2026-09-12.
 
 ## What this is for
 

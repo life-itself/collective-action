@@ -64,8 +64,7 @@ run the tells/protections/self-check pass, not just the profile.
 **Start with [NEXT.md](NEXT.md)** — where things stand and what to do next.
 
 
-Course content lives in `course/`. Marketing and the public outline live in `~/src/life-itself/courses/collective-action/marketing/`;
-the working plan with all modules is `course/arc.md`.
+This repo is the knowledge base: wiki concept notes, plus course research in `course/research/`. The course itself (roadmap, arc, session plans, slides, facilitation notes), delivery and marketing live in the private `~/src/life-itself/courses/collective-action/`.
 
 Research and preparation work is tracked in beads (`bd list`). Modules are the
 backbone and sessions are `session-N` labels, so moving a module between

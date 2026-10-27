@@ -34,7 +34,7 @@ Start at the shortlist, not the index. The
 
 ## What's done
 
-- Course outline: [course/arc.md](course/arc.md) (working plan, six sessions,
+- Course outline: `courses/collective-action/arc.md` (moved to the private courses repo 27 Oct, with the roadmap and session plans) (working plan, six sessions,
   33 modules) (the public page now lives in courses/collective-action/marketing/).
 - Course named **Intro to Collective Action** (2026-09-25). Landing page live at
   <https://secondrenaissance.net/course/collective-action>, in the Course nav;
