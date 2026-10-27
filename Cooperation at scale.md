@@ -19,10 +19,11 @@ Every mechanism here has a scale at which it stops working. Arranged roughly by 
 
 Where observation and punishment fail, something else has to carry the load.
 
-- [[The state]] and [[Thomas Hobbes]] — [[Churchill on war as the human default]]
+- [[The state]] and [[Thomas Hobbes]] — [[Churchill on war as the human default]] — [[Bauer et al on war and cooperation]] — [[Kemp on conflict and in-group cooperation]]
 - [[Coase theorem]], [[Pigouvian tax]], [[Property rights]] — changing the payoffs
 - [[Thomas Schelling]], [[Focal point]], [[Credible commitment]]
 - [[Polycentricity]]
+- [[Kemp and the rise of the state as collective action failure]]
 
 ## The limit
 
