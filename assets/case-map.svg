@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#222">
+  <title>Cases on the pattern map</title>
+  <desc>A greed/fear grid with four cells: battle line (greed and fear), chicken (greed, no fear), stag hunt (fear, no greed) and no problem. Clean cases sit inside cells. Thirteen numbered cases sit on borders or on the diagonal, because they fit two or more patterns.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#b03a2e"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="640" fill="#ffffff"/>
+
+  <!-- Heading -->
+  <text x="140" y="38" font-size="20" font-weight="700">Two questions, three patterns</text>
+  <text x="140" y="60" fill="#555">Greed: if you pull your weight, do I gain by slacking?  Fear: if I pull mine alone, do I lose?</text>
+
+  <!-- Column and row labels -->
+  <text x="280" y="90" text-anchor="middle" font-weight="700" fill="#555">Fear</text>
+  <text x="560" y="90" text-anchor="middle" font-weight="700" fill="#555">No fear</text>
+  <text x="118" y="210" text-anchor="middle" font-weight="700" fill="#555" transform="rotate(-90 118 210)">Greed</text>
+  <text x="118" y="430" text-anchor="middle" font-weight="700" fill="#555" transform="rotate(-90 118 430)">No greed</text>
+
+  <!-- Cells -->
+  <rect x="140" y="100" width="280" height="220" fill="#f6e3e0"/>
+  <rect x="420" y="100" width="280" height="220" fill="#fbefd9"/>
+  <rect x="140" y="320" width="280" height="220" fill="#e2ecf6"/>
+  <rect x="420" y="320" width="280" height="220" fill="#e6f2e6"/>
+  <rect x="140" y="100" width="560" height="440" fill="none" stroke="#999"/>
+  <line x1="420" y1="100" x2="420" y2="540" stroke="#999"/>
+  <line x1="140" y1="320" x2="700" y2="320" stroke="#999"/>
+
+  <!-- Cell titles -->
+  <text x="280" y="128" text-anchor="middle" font-size="17" font-weight="700">Battle line</text>
+  <text x="280" y="147" text-anchor="middle" fill="#555">(prisoner's dilemma)</text>
+  <text x="560" y="128" text-anchor="middle" font-size="17" font-weight="700">Chicken</text>
+  <text x="560" y="147" text-anchor="middle" fill="#555">(volunteer's dilemma)</text>
+  <text x="280" y="508" text-anchor="middle" font-size="17" font-weight="700">Stag hunt</text>
+  <text x="280" y="527" text-anchor="middle" fill="#555">(assurance game)</text>
+  <text x="560" y="508" text-anchor="middle" font-size="17" font-weight="700">No problem</text>
+  <text x="560" y="527" text-anchor="middle" fill="#555">(harmony)</text>
+
+  <!-- Clean cases -->
+  <g font-size="13" fill="#444" text-anchor="middle">
+    <text x="280" y="182">Newfoundland cod · Moloch</text>
+    <text x="280" y="200">open source · public-goods experiment</text>
+    <text x="580" y="182">Street collapse · Strangelove</text>
+    <text x="580" y="200">brinkmanship · Alanya rotation</text>
+    <text x="250" y="446">Bank runs · protests</text>
+    <text x="250" y="464">Norma Rae · Potemkin</text>
+    <text x="580" y="446">Meerkat sentinels</text>
+    <text x="580" y="464">leaded petrol?</text>
+  </g>
+
+  <!-- Threshold diagonal: stag hunt below the threshold, chicken above -->
+  <line x1="318" y1="422" x2="520" y2="220" stroke="#b03a2e" stroke-width="1.5" stroke-dasharray="5 4" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <text x="500" y="262" font-size="12" fill="#b03a2e" font-style="italic">stag hunt ↔ chicken</text>
+
+  <!-- Second placements (outlined): the same case in another cell -->
+  <g font-size="12" font-weight="700" text-anchor="middle" fill="#b03a2e">
+    <circle cx="480" cy="385" r="11" fill="#fff" stroke="#b03a2e" stroke-width="1.5"/><text x="480" y="389">6</text>
+    <circle cx="650" cy="385" r="11" fill="#fff" stroke="#b03a2e" stroke-width="1.5"/><text x="650" y="389">7</text>
+  </g>
+
+  <!-- Numbered cases -->
+  <g font-size="12" font-weight="700" text-anchor="middle">
+    <g fill="#b03a2e"><circle cx="170" cy="320" r="11"/><circle cx="215" cy="320" r="11"/><circle cx="260" cy="320" r="11"/><circle cx="305" cy="320" r="11"/><circle cx="420" cy="232" r="11"/><circle cx="420" cy="278" r="11"/><circle cx="230" cy="250" r="11"/><circle cx="388" cy="352" r="11"/><circle cx="452" cy="288" r="11"/><circle cx="356" cy="384" r="11"/><circle cx="355" cy="320" r="11"/><circle cx="420" cy="320" r="13"/></g>
+    <circle cx="420" cy="320" r="17" fill="none" stroke="#b03a2e" stroke-width="1.5"/>
+    <g fill="#fff">
+      <text x="170" y="324">1</text><text x="215" y="324">2</text><text x="260" y="324">3</text><text x="305" y="324">4</text>
+      <text x="420" y="236">5</text><text x="420" y="282">6</text><text x="230" y="254">7</text>
+      <text x="388" y="356">8</text><text x="452" y="292">9</text><text x="356" y="388">10</text>
+      <text x="355" y="324">11</text><text x="420" y="324">12</text>
+    </g>
+  </g>
+
+  <!-- Off the map: coordination -->
+  <circle cx="152" cy="582" r="11" fill="#fff" stroke="#b03a2e" stroke-width="1.5"/>
+  <text x="152" y="586" font-size="12" font-weight="700" text-anchor="middle" fill="#b03a2e">13</text>
+  <text x="172" y="587" font-size="13" fill="#444">Off the map: pure coordination (which side of the road), with a battle line inside it</text>
+  <text x="140" y="618" font-size="13" fill="#888">Not group dilemmas: Twelve Angry Men (information cascade) · Aral Sea · the Ik · Donner Party · Jaws · vampire bats (two parties)</text>
+
+  <!-- Legend -->
+  <text x="730" y="118" font-size="15" font-weight="700">Fits two or more</text>
+  <g font-size="13">
+    <text x="730" y="144"><tspan font-weight="700" fill="#b03a2e">1 </tspan>Hoplite battle line</text>
+    <text x="730" y="167"><tspan font-weight="700" fill="#b03a2e">2 </tspan>Herds against lions</text>
+    <text x="730" y="190"><tspan font-weight="700" fill="#b03a2e">3 </tspan>Anglo-German naval race</text>
+    <text x="730" y="213"><tspan font-weight="700" fill="#b03a2e">4 </tspan>Limited Test Ban Treaty</text>
+    <text x="730" y="236"><tspan font-weight="700" fill="#b03a2e">5 </tspan>Heartbleed, OpenSSL</text>
+    <text x="730" y="259"><tspan font-weight="700" fill="#b03a2e">6 </tspan>Wikipedia and maintainers</text>
+    <text x="752" y="275" fill="#666" font-size="12">also no problem</text>
+    <text x="730" y="298"><tspan font-weight="700" fill="#b03a2e">7 </tspan>Great Stink</text>
+    <text x="752" y="314" fill="#666" font-size="12">battle line, then no problem</text>
+    <text x="730" y="337"><tspan font-weight="700" fill="#b03a2e">8 </tspan>Playground bystanders</text>
+    <text x="730" y="360"><tspan font-weight="700" fill="#b03a2e">9 </tspan>Plataean breakout</text>
+    <text x="730" y="383"><tspan font-weight="700" fill="#b03a2e">10 </tspan>Liberum veto</text>
+    <text x="730" y="406"><tspan font-weight="700" fill="#b03a2e">11 </tspan>Climate</text>
+    <text x="752" y="422" fill="#666" font-size="12">also stag hunt or chicken</text>
+    <text x="730" y="445"><tspan font-weight="700" fill="#b03a2e">12 </tspan>Frontier AI race (all three)</text>
+    <text x="730" y="468"><tspan font-weight="700" fill="#b03a2e">13 </tspan>Balinese subak</text>
+  </g>
+  <text x="730" y="499" font-size="12" fill="#666">On a border: fits both cells.</text>
+  <text x="730" y="515" font-size="12" fill="#666">Dashed diagonal: fits stag hunt</text>
+  <text x="730" y="531" font-size="12" fill="#666">and chicken, usually through</text>
+  <text x="730" y="547" font-size="12" fill="#666">a many-player threshold.</text>
+  <text x="730" y="563" font-size="12" fill="#666">Outlined: same case, second cell.</text>
+</svg>

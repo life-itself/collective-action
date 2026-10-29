@@ -55,7 +55,7 @@ Finer axes that split or merge cases within the map:
 - **Repetition.** Indefinite repetition makes cooperation one equilibrium among very many, which turns a battle line into a coordination problem ([[Folk theorem]]; Osborne and Rubinstein, *A Course in Game Theory*, 1994, p. 134).
 - **Timing and asymmetry.** In chicken, committing first gains. A big player who gains enough to act alone turns a case into a privileged group (Olson, *The Logic of Collective Action*, 1965, pp. 49–50).
 
-Many real cases fit two patterns: the hoplite line, climate, the naval race before 1914, Heartbleed, and the AI race, which fits all three. Almost all are many-player threshold cases or cases whose payoffs shift with a parameter; Heckathorn's game space (p. 257) and Ostrom (pp. 46–47) both note that small changes in parameters change the game.
+Many real cases fit two patterns: the hoplite line, climate, the naval race before 1914, Heartbleed, and the AI race, which fits all three. Almost all are many-player threshold cases or cases whose payoffs shift with a parameter; Heckathorn's game space (p. 257) and Ostrom (pp. 46–47) both note that small changes in parameters change the game. Case by case: [[Cases on the pattern map]].
 
 ## Second layer
 
