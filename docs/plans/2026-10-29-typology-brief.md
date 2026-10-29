@@ -245,6 +245,18 @@ Schelling's page numbers come from a Google Books map and are unverified.
 
 ## Decision for Rufus
 
+**Decided (Rufus, 30 Oct, after a Fable review):** A.
+
+- **Course:** three patterns, crossed with taking vs building:
+  - **Battle line** (prisoner's dilemma);
+  - **Stag hunt** (assurance game);
+  - **Chicken** (volunteer's dilemma). "Chicken" replaces "volunteer" because people remember it. The bracket gives the many-player form, which is what group cases are.
+- **Fixes:** enforce, reassure, decide who acts.
+- **Teaching:** payoff matrices are shown and worked through; greed and fear are scaffolding, not the headline.
+- **Wiki:** carries the full structure, with "no problem" as a real cell. A page mapping the double-fit cases, with a diagram, is proposed (Beads).
+
+Options as put to Rufus:
+
 **How many patterns does chapter 1 teach?**
 
 | Answer | What it means for course-wse.23 |

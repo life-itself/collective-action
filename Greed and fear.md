@@ -14,7 +14,7 @@ In plain terms: would I gain by slacking if you pull your weight? Would I lose b
 
 | | Fear | No fear |
 |---|---|---|
-| **Greed** | [[Prisoner's Dilemma]] (battle line) | [[Chicken (game)]], [[Volunteer's dilemma]] ("who gives way") |
+| **Greed** | [[Prisoner's Dilemma]] (battle line) | [[Chicken (game)]], [[Volunteer's dilemma]] (chicken) |
 | **No greed** | [[Stag hunt]] (assurance) | Harmony (no problem) |
 
 The terms are Macy and Flache's ("Learning Dynamics in Social Dilemmas", *PNAS* 99 suppl. 3, 2002), who define greed as T > R and fear as P > S. The classification itself is arithmetic. Of the 12 strict orderings with R > P, the four cells hold 1, 3, 3 and 5. So the map covers every strict symmetric case where cooperating together beats defecting together. Orderings where both prefer mutual defection, such as deadlock, are not dilemmas.

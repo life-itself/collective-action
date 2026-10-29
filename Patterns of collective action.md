@@ -22,12 +22,12 @@ Two questions sort the games ([[Greed and fear]]). Would I gain by slacking if y
 
 | | Fear | No fear |
 |---|---|---|
-| **Greed** | [[Prisoner's Dilemma]] — the **battle line**. One equilibrium, and it's bad. | [[Chicken (game)]] and the [[Volunteer's dilemma]] — **who gives way**. Someone gives way; the fight is over who. |
+| **Greed** | [[Prisoner's Dilemma]] — the **battle line**. One equilibrium, and it's bad. | [[Chicken (game)]] and the [[Volunteer's dilemma]] — **chicken**. Someone gives way; the fight is over who. |
 | **No greed** | [[Stag hunt]] — **assurance**. Two equilibria, one better. | **No problem** (harmony; the privileged game). Cooperating pays anyway. |
 
-Each pattern has its own fix: change the payoffs (battle line), give assurance (stag hunt), allocate the job (who gives way, where one actor is enough; otherwise chicken is fixed like a prisoner's dilemma: Dixit, Skeath and Reiley, *Games of Strategy*, 4th ed., 2015, p. 449). Fixes work by moving a case across the map towards "no problem".
+Each pattern has its own fix: change the payoffs (battle line), give assurance (stag hunt), decide who acts (chicken, where one actor is enough; otherwise chicken is fixed like a prisoner's dilemma: Dixit, Skeath and Reiley, *Games of Strategy*, 4th ed., 2015, p. 449). Fixes work by moving a case across the map towards "no problem".
 
-Off the map, as a baseline: the pure [[Coordination game]] (which side of the road), where the only problem is matching. Battle of the sexes, where each prefers a different match, belongs with "who gives way".
+Off the map, as a baseline: the pure [[Coordination game]] (which side of the road), where the only problem is matching. Battle of the sexes, where each prefers a different match, belongs with chicken.
 
 Comparisons:
 
@@ -39,7 +39,7 @@ Comparisons:
 
 The second axis is what cooperating means ([[Taking and building]]): restraint (not overfishing, not emitting) or contribution (work, money, code). It is a simplification of Ostrom's appropriation and provision. It doesn't change the equilibria, but it changes the remedies. All three patterns occur on both sides:
 
-| | Battle line | Stag hunt | Who gives way |
+| | Battle line | Stag hunt | Chicken |
 |---|---|---|---|
 | **Taking** | Open-access fisheries (Newfoundland cod) | Bank runs | Who gets the good spot: the Alanya fishing sites |
 | **Building** | Public goods; open source; the public-goods experiment | Protests and revolutions | A person collapses in the street |
@@ -69,7 +69,7 @@ Next to the patterns rather than part of them. Each item is placed as a pattern,
 | [[Hold-up problem]], [[Commitment problem]] | Causes |
 | [[Folk theorem]], [[Selective incentives]], [[Assurance contracts]] | Remedies |
 | [[Mechanism design]], Clarke–Groves and VCG | Remedy family: design the game |
-| Rotation, lotteries, correlated equilibrium | Remedies for who gives way and coordination |
+| Rotation, lotteries, correlated equilibrium | Remedies for chicken and coordination |
 | Bargaining | Adjacent: how a who-gives-way conflict gets settled |
 
 ## Typologies in the literature

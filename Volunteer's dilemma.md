@@ -31,7 +31,7 @@ This is the formal match to the bystander effect (Darley and Latané 1968 **[?]*
 
 ## Names
 
-Bystander problem, "someone should do something". The course calls it the **volunteer**, or "who gives way". More aliases: [[Names of collective action problems]].
+Bystander problem, "someone should do something". The course teaches it as **chicken**, the many-player form of [[Chicken (game)]]. More aliases: [[Names of collective action problems]].
 
 ## Typical failure and fix
 
