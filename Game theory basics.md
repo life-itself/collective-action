@@ -8,6 +8,8 @@ tags: [moc]
 
 The minimum theory needed to see the structure of a collective action problem. The point of all of it is that defection is usually rational — no villain is required for a group to end up somewhere none of its members wanted.
 
+How the games fit together as a typology: [[Patterns of collective action]].
+
 ## The games
 
 - [[Prisoner's Dilemma]] — mutual defection as the only equilibrium

@@ -104,3 +104,16 @@ Recomputed each matrix. All ordinal payoffs match the stated orderings and all e
 ## Check depth (summary)
 
 Ostrom, O&R, Laffont and Martimort, and Hess and Ostrom claims were checked page by page against the local Markdown (page markers used; O&R's marker for printed p. 177 is a chapter-opening "p. 10 | pdf 193" and was resolved from the neighbouring pdf numbers). Taylor 1987 was checked against a full-text archive.org copy (all cited pages located via running heads; the PDF text layer is OCR). Heckathorn 1996 pp. 256-259 were read as page images of the scanned PDF; the rest of the article was not read. Kollock 1998, Macy and Flache 2002 (full text via PMC), Diekmann 1985, Hirshleifer 1983, Rapoport and Guyer and Robinson and Goforth were checked only from abstracts, a full text for Macy and Flache, or secondary sources, as stated per row. The remaining sources (Olson, Sandler, Dixit and Skeath, Ullmann-Margalit, Schelling, Marwell and Oliver, Holmström, Alchian and Demsetz at first hand, and the cited economics papers) were not checked and stay [?]. The matrices and equilibria were recomputed independently.
+
+## Recheck, 30 Oct (local books)
+
+Unverified rows rechecked against newly converted local texts (Olson 1965, 5th printing; Sandler 1992 and 2004; Dixit, Skeath and Reiley 4th ed.; Schelling 1978 ch. 7, Google Books page map). Details in the notes' "Recheck (30 Oct)" paragraph.
+
+| # | Was | Now |
+|---|---|---|
+| 61 | Diekmann model confirmed only from secondary sources | Model and group-size result also in Dixit, Skeath and Reiley pp. 455–457 (after Palfrey and Rosenthal 1984). Diekmann's original still unread |
+| 65 | Olson unverified | CONFIRMED: privileged / intermediate / latent pp. 49–51; "exploitation" of the great by the small pp. 3, 29, 35 |
+| 66 | Which Hardin? | Russell Hardin 1982, p. 25, as quoted by Sandler 1992 p. 44 ("essentially the same"). Second-hand only |
+| 67 | Sandler, Dixit, Schelling unverified | Dixit CONFIRMED (pp. 418–430). Schelling CONFIRMED in substance (GB-map pp. 216–242), but he does not use the names chicken or assurance. Ullmann-Margalit, Marwell and Oliver still unverified |
+| 68 | Holmström unverified | Second-hand via Sandler 1992 p. 125. Alchian–Demsetz, Bliss–Nalebuff and Darley–Latané still unverified |
+| 70 | Sandler mapping unverified | **WRONG in part:** Sandler's best shot is a "Coordination" (BoS-like) game, not chicken (1992 p. 41; 2004 p. 66, Table 3.2 p. 68). Its payoffs (T > R = S > P) do fit the volunteer. Summation gives PD *or chicken*; weakest link and threshold give assurance |

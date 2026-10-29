@@ -193,7 +193,9 @@ cooperating alone. That swap changes:
 
 - **The equilibria.** The prisoner's dilemma has one, where nobody acts. Chicken and the volunteer have equilibria where someone acts, plus a mixed one where disaster has a real chance. In the volunteer's dilemma that chance grows with group size: the bystander effect.
 - **The failure.** The wrong person pays, people wait, and there are commitment races.
-- **The fix.** Allocate the job: name someone, rotate, pay. Assurance backfires: if I know you'll act, I wait.
+- **The fix.** Allocate the job: name someone, rotate, pay. Assurance backfires: if I know you'll act, I wait. (This holds when one actor is enough. If the group is best off with everyone acting, chicken is fixed like a prisoner's dilemma: Dixit, Skeath and Reiley, 4th ed., p. 449.)
+
+Two cautions from the 30 Oct recheck. In large groups, providing a public good almost always becomes a prisoner's dilemma (Dixit, Skeath and Reiley p. 430). Sandler's labels differ from ours: he calls the best-shot game a "coordination" game, though its payoffs are the volunteer's, and he gets chicken from goods that simply add up when doing nothing is a disaster (*Collective Action*, 1992, pp. 40–41; *Global Collective Action*, 2004, p. 68).
 
 Rufus is partly right. The outcome looks the same (nothing gets done), real
 cases slide between patterns as the payoffs change, and repeated play blurs the
@@ -231,10 +233,15 @@ pollution).
 
 All the matrices and equilibria were recomputed and are correct.
 
-**Not yet checked first-hand** (marked **[?]** in the notes; recheck when
-course-wse.44 lands): Sandler's mapping from how contributions add up to
-patterns; Kollock 1998 beyond the abstract; Diekmann's model; Olson's group
-types; Dixit and Skeath; Holmström; Alchian and Demsetz.
+**Rechecked 30 Oct** against local copies of Olson, Sandler (1992, 2004),
+Dixit, Skeath and Reiley (4th ed.) and Schelling's *Micromotives* ch. 7: Olson's
+group types and "exploitation of the great by the small" confirmed with pages;
+Dixit's three forms confirmed; Sandler's mapping corrected as above; none of
+this changes the recommendation. **Still not checked first-hand** (marked
+**[?]** in the notes): Kollock 1998 beyond the abstract; Diekmann's original
+(the model is now page-cited from Dixit); Holmström and R. Hardin (seen only as
+quoted by Sandler); Alchian and Demsetz; Ullmann-Margalit; Marwell and Oliver.
+Schelling's page numbers come from a Google Books map and are unverified.
 
 ## Decision for Rufus
 
