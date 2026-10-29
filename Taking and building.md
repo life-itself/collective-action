@@ -28,7 +28,7 @@ Both kinds are present in every common-pool resource, and the taking side comes 
 - **The remedies.** Taking needs limits on withdrawal, boundaries and monitoring (Törbel's wintering rule; the Alanya rotation). Building needs [[Selective incentives]], assurance, patrons and credit (priority in the *Philosophical Transactions*; [[Assurance contracts]]).
 - **Aggregation.** Building goods often have thresholds or a best-shot technology, which pushes them towards the [[Stag hunt]] and [[Volunteer's dilemma]] ([[Aggregation technologies]]).
 
-All three greed/fear patterns occur on both sides. Taking-side "who gives way" cases include the Alanya fishing sites, which Ostrom says "cannot be represented as a PD game" (p. 47), and Taylor's fishery that tolerates two boats but collapses with three (*The Possibility of Cooperation*, 1987, pp. 43–44).
+All three greed/fear patterns occur on both sides. Taking-side chicken cases include the Alanya fishing sites, which Ostrom says "cannot be represented as a PD game" (p. 47), and Taylor's fishery that tolerates two boats but collapses with three (*The Possibility of Cooperation*, 1987, pp. 43–44).
 
 ## Information commons
 

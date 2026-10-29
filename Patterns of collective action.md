@@ -22,8 +22,8 @@ Two questions sort the games ([[Greed and fear]]). Would I gain by slacking if y
 
 | | Fear | No fear |
 |---|---|---|
-| **Greed** | [[Prisoner's Dilemma]] — the **battle line**. One equilibrium, and it's bad. | [[Chicken (game)]] and the [[Volunteer's dilemma]] — **chicken**. Someone gives way; the fight is over who. |
-| **No greed** | [[Stag hunt]] — **assurance**. Two equilibria, one better. | **No problem** (harmony; the privileged game). Cooperating pays anyway. |
+| **Greed** | **Battle line** ([[Prisoner's Dilemma]]). One equilibrium, and it's bad. | **Chicken** ([[Volunteer's dilemma]]; with two players, [[Chicken (game)]]). Someone gives way; the fight is over who. |
+| **No greed** | **[[Stag hunt]]** (assurance game). Two equilibria, one better. | **No problem** (harmony; the privileged game). Cooperating pays anyway. |
 
 Each pattern has its own fix: change the payoffs (battle line), give assurance (stag hunt), decide who acts (chicken, where one actor is enough; otherwise chicken is fixed like a prisoner's dilemma: Dixit, Skeath and Reiley, *Games of Strategy*, 4th ed., 2015, p. 449). Fixes work by moving a case across the map towards "no problem".
 

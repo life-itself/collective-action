@@ -26,7 +26,7 @@ Temptation > reward > sucker > punishment (T > R > S > P). The top row is the sa
 
 ## Names
 
-Hawk–Dove (biology), snowdrift (who clears the drift; Doebeli and Hauert, *Ecology Letters*, 2005), brinkmanship. Osborne and Rubinstein (p. 30) note that Hawk–Dove is also known as Chicken. Heckathorn gets it from the prisoner's dilemma by reversing the two bottom payoffs ("The Dynamics and Dilemmas of Collective Action", 1996, pp. 258–259). Sandler gets it from a summation public good when doing nothing has dire consequences (*Global Collective Action*, 2004, p. 62). The n-person form is the [[Volunteer's dilemma]]. The course groups both, with battle of the sexes and hold-outs, as **"who gives way"** (or the volunteer). More aliases: [[Names of collective action problems]].
+Hawk–Dove (biology), snowdrift (who clears the drift; Doebeli and Hauert, *Ecology Letters*, 2005), brinkmanship. Osborne and Rubinstein (p. 30) note that Hawk–Dove is also known as Chicken. Heckathorn gets it from the prisoner's dilemma by reversing the two bottom payoffs ("The Dynamics and Dilemmas of Collective Action", 1996, pp. 258–259). Sandler gets it from a summation public good when doing nothing has dire consequences (*Global Collective Action*, 2004, p. 62). The n-person form is the [[Volunteer's dilemma]]. The course groups both, with battle of the sexes and hold-outs, as the **chicken** pattern (formally, the volunteer's dilemma). More aliases: [[Names of collective action problems]].
 
 The dynamic version is the war of attrition: each chooses when to concede (Osborne and Rubinstein p. 18, Example 18.4).
 

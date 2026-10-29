@@ -35,7 +35,7 @@ Both want to match, but each prefers a different match. Osborne and Rubinstein c
 | **Row Bach** | 2, 1 | 0, 0 |
 | **Row Stravinsky** | 0, 0 | 1, 2 |
 
-Two pure equilibria. The mixed equilibrium gives each player an expected 2/3, worse than either pure one (pp. 34–35; p. 46). Relabel the moves "insist on mine" and "give way" and it has the shape of [[Chicken (game)]]: a fight over who yields. The difference is that in chicken mutual insistence is the disaster, while in battle of the sexes both mismatches are bad. The course groups it with chicken under "who gives way".
+Two pure equilibria. The mixed equilibrium gives each player an expected 2/3, worse than either pure one (pp. 34–35; p. 46). Relabel the moves "insist on mine" and "give way" and it has the shape of [[Chicken (game)]]: a fight over who yields. The difference is that in chicken mutual insistence is the disaster, while in battle of the sexes both mismatches are bad. The course groups it with chicken.
 
 ## Fixes
 
