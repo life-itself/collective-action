@@ -95,8 +95,18 @@ failing and typical fixes.
 ### Pass 2: knowledge base write-up
 
 - KR5.1: A hub page, `Patterns of collective action.md` (`tags: [moc]`), with the top level, the finer axes and the typologies. `Game theory basics.md` links to it.
-- KR5.2: An annotated bibliography page, `Collective action bibliography.md`, with one or two lines per source and a note on what it is good for.
-- KR5.3: Atomic notes for up to eight patterns or second-layer items, including the principal-agent problem. Remaining red links are filed as Beads.
+- KR5.2: An annotated bibliography page, `Collective action bibliography.md`, with one or two lines per source and a note on what it is good for. (Drafted.)
+- KR5.3: Short atomic notes that link to each other, in preference to long ones. Planned pages (Rufus, 30 Oct):
+  - `Patterns of collective action` (map of content): the two-level typology.
+  - `Names of collective action problems`: a "Rosetta Stone" table of each game's standard name, its aliases by field, and the course name.
+  - `Prisoner's Dilemma`, `Stag hunt` (update), `Chicken (game)`, `Volunteer's dilemma`, `Coordination game`: one per game, each with its matrix, equilibria, aliases, typical failure and typical fix.
+  - `Greed and fear`: the two questions that generate the map.
+  - `Chicken vs prisoner's dilemma`, `Prisoner's dilemma vs stag hunt`, `Stag hunt vs chicken`: short comparison notes, each built on the matrices side by side.
+  - `Taking and building`: the second axis (Ostrom's appropriation vs provision).
+  - `Aggregation technologies`: best shot, weakest link, threshold (second level).
+  - `Principal-agent problem` and `Second-order free-rider problem`: the second layer.
+
+  Remaining red links are filed as Beads.
 - KR5.4: The notes follow `docs/wiki-conventions.md` and `docs/writing-style.md`. An independent subagent checks the citations.
 
 ## Sources: textbooks first, web last
