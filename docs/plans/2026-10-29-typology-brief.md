@@ -250,10 +250,36 @@ Schelling's page numbers come from a Google Books map and are unverified.
 | Answer | What it means for course-wse.23 |
 |---|---|
 | **A. Three, as a greed/fear map (recommended)** | The module keeps its structure. Add one map slide. Rebuild the three pattern sections around the two questions. Broaden the volunteer to "who gives way", lead with the street collapse or a standoff, and show Heartbleed as a double-fit. Fill the taking × volunteer cell with Alanya. |
-| B. Two patterns; the volunteer as a footnote | Slides 15 and 17 and diagnostic Q0 change; the grid becomes 2×2. The allocation fix and chicken come back in session 4 for Strangelove. |
+| B. Two patterns; the volunteer as a footnote, or as the example for arc v0.7's "anyone big enough?" dimension | Slides 15 and 17 and diagnostic Q0 change; the grid becomes 2×2 (two games × taking/building). The arc's chapter 1 bullet and the ch1 script both change. Chicken and the allocation fix return in session 4 for Strangelove. |
 | C. The greed/fear 2×2 as the headline, with "no problem" as a fourth category | Most structural, but more theory up front, against outflow 8's "less material". |
 
 Smaller question: **keep "taking / building" as the grid's row labels**, defined
 as restraint vs contribution? Recommend yes. Two row labels change.
 
 Reply with A, B or C, plus yes or no on the row labels.
+
+### Input from the arc v0.7 review (30 Oct)
+
+Arc v0.7 splits chapter 1 into **types** (the games, set by payoffs) and
+**dimensions** (five diagnostic questions: how many players, will we meet
+again, can defection be seen, can it be punished, is anyone big enough to act
+alone). Its critique is in the shared notes folder
+(`2026-10-29-arc-v0.7-fable-critique.md`). Its points, and how they fit this
+research:
+
+- **Keep types and dimensions apart.** This matches the research. The greed/fear map classifies by payoffs only. Group size, repetition, visibility and the way contributions add up are second-level, which is the arc's dimensions.
+- **Two levers.** The research supports naming both:
+  - **Changing the type** means removing greed or fear: a fine turns a battle line into a stag hunt, and a refund guarantee removes fear in a stag hunt.
+  - **Changing the dimensions** means repetition, visibility, punishment or a big player. These change the effective payoffs without changing the story.
+
+  The hub page can label each fix as one or the other.
+- **Pure coordination and Schelling.** Tie focal points to the stag hunt (picking the good equilibrium), and commitment to the battle line and chicken. Pure coordination stays a one-line baseline, not a fourth type.
+- **Decide once.** Whatever Rufus picks, the arc, the ch1 script and this brief must all say the same.
+- **The arc review's lean is B:** the volunteer's point is "is anyone big enough to act alone?", which is already a dimension. That is defensible. Dixit, Skeath and Reiley (p. 449) say allocation is chicken's distinctive fix only when one actor is enough, which is the same condition.
+
+  Against it, still in favour of A:
+  - The volunteer has different equilibria from both other games, so it is a distinct type, not a dimension.
+  - "Anyone big enough" is only half of it. In an Olson privileged group with one big member, the problem disappears ("no problem"). It becomes a volunteer's dilemma only when several members are big enough and each would rather another paid (Olson p. 50, n. 70).
+  - Standoffs and Strangelove need chicken anyway, in session 4.
+
+  If Rufus prefers fewer concepts up front, **B, with the volunteer as the example under "anyone big enough?"**, is the right form of B.
