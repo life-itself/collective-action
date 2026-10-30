@@ -45,6 +45,9 @@
     "orderBy": "path"
   },
   "contentHide": [
-    "/course/research"
+    "/course/research",
+    "/course/0-intro/assets",
+    "/course/0-intro/deck",
+    "/course/1-basics/assets"
   ]
 }
