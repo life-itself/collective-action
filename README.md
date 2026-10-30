@@ -17,7 +17,8 @@ This knowledge base explores both the opportunity and the failure. It will inclu
 
 The issues are urgent and wide-ranging: governing artificial intelligence and other powerful technologies, addressing climate change and managing environmental commons, preserving shared information ecosystems, building international institutions that actually work.
 
-This is also the companion knowledge base for an upcoming course on collective action and cooperation -- pre-register here https://luma.com/iydwcpau. Notes, concepts, and key ideas will be collected here and as the course develops as a living wiki.
+> [!tip] The course
+> This is also the companion knowledge base for the course *Intro to Collective Action*. Its chapters are a guided path through these ideas, from why cooperation fails to how it scales. **[Start the course →](/course)**
 
 ## Key themes
 

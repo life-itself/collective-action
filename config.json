@@ -1,7 +1,7 @@
 {
   "title": "Collective Action and Cooperation Wiki",
   "theme": "lessflowery",
-  "description": "A knowledge base on realising opportunities for coordination \u2014 and understanding why we fail.",
+  "description": "A knowledge base on realising opportunities for coordination — and understanding why we fail.",
   "logo": "/assets/stag.jpg",
   "favicon": "/assets/stag.jpg",
   "showBacklinks": true,
@@ -31,7 +31,20 @@
       {
         "label": "Home",
         "href": "/"
+      },
+      {
+        "label": "Course",
+        "href": "/course"
       }
     ]
-  }
+  },
+  "sidebar": {
+    "paths": [
+      "/course"
+    ],
+    "orderBy": "path"
+  },
+  "contentHide": [
+    "/course/research"
+  ]
 }

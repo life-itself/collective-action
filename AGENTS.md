@@ -64,7 +64,7 @@ run the tells/protections/self-check pass, not just the profile.
 **Start with [NEXT.md](NEXT.md)** — where things stand and what to do next.
 
 
-This repo is the knowledge base: wiki concept notes, plus the course's case lists in `course/research/`. New research outputs are top-level wiki pages; research briefs and working notes go in `docs/plans/`. How we research: [docs/how-to-research.md](docs/how-to-research.md). The course itself (roadmap, arc, session plans, slides, facilitation notes), delivery and marketing live in the private `~/src/life-itself/courses/collective-action/`.
+This repo is the knowledge base: wiki concept notes, plus the course's published chapter pages in `course/N-slug/` (reader pages made from the private scripts by the course-development skill's publish stage; edit the script there, then re-publish) and its case lists in `course/research/`. New research outputs are top-level wiki pages; research briefs and working notes go in `docs/plans/`. How we research: [docs/how-to-research.md](docs/how-to-research.md). The course itself (roadmap, arc, session plans, slides, facilitation notes), delivery and marketing live in the private `~/src/life-itself/courses/collective-action/`.
 
 Research and preparation work is tracked in beads (`bd list`). Modules are the
 backbone and sessions are `session-N` labels, so moving a module between

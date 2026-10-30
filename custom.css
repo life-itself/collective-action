@@ -1,0 +1,4 @@
+/* Course reader callouts: give the custom types their own colours (they fall back to "note" blue otherwise) */
+[data-callout][data-callout-type="reflect"] { --callout-color: var(--callout-tip-color); }
+[data-callout][data-callout-type="exercise"] { --callout-color: var(--callout-example-color); }
+[data-callout][data-callout-type="poll"] { --callout-color: var(--callout-warning-color); }

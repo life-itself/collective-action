@@ -12,13 +12,14 @@ How notes are structured here. Read this before writing any note, and read
 
 ```
 /                 wiki, published — atomic notes, module master notes, MOCs
+course/           course landing page and published chapter pages (N-slug/), made from the private scripts
 course/research/  course case lists (the course itself lives in the private courses repo)
 docs/             internal docs like this one — not published
 docs/plans/       research briefs and working notes — not published
 raw/              dictation and private notes — not published
 ```
 
-Scripts and decks for the course stay in `course/` and never enter the wiki.
+Scripts and working decks stay in the private courses repo; only finished chapter pages are published here, under `course/`.
 The wiki holds concepts; the course holds the material made from them.
 
 ## Three note types
