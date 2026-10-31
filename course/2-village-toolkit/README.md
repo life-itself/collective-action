@@ -43,7 +43,7 @@ Not the Christmas truce. That was one famous day. I mean something quieter, and 
 ![German soldiers in a sandbagged trench in daylight, reading, one getting a haircut and shave](assets/trench-german-1915.jpg)
 *A quiet day in a German trench, 1915: reading, a haircut, a shave. Library of Congress, public domain.*
 
-Up and down the line, units facing each other worked out an unspoken deal. Don't shoot at breakfast. When the artillery did fire, it hit the same spot at the same time each evening, so everyone knew where not to be. One side shoots high; the other notices and shoots high back. And when a unit was relieved, it passed the deal on to the newcomers.[^trucedetail]
+Up and down the line, units facing each other worked out an unspoken deal. Don't shoot at breakfast. Don't shell the ration carts. When the artillery did fire, it hit the same spot at the same time each evening, so everyone knew where not to be. Fire that could kill was aimed to miss. And when a unit was relieved, it passed the deal on to the newcomers.[^trucedetail]
 
 Nobody negotiated this. They were enemies, they couldn't openly talk, and fraternising could get you court-martialled. It still held.
 
@@ -173,7 +173,7 @@ Remember Heartbleed: the open-source code securing much of the web, run by about
 ![The Heartbleed logo: a red heart dripping blood](assets/heartbleed.png)
 *The Heartbleed logo, 2014. Leena Kurjenniska / Codenomicon, CC0.*
 
-After the bug, a small club of the biggest tech firms, Google, Microsoft, Amazon, Facebook and others, put in a few million dollars between them.[^cii] $100,000 a year each was pocket change for any of them. Any one could have paid. None did, until the disaster made it embarrassing not to.
+After the bug, a club of the biggest tech firms, Google, Microsoft, Amazon, Facebook and nine others, put in about $4 million between them, for OpenSSL and other neglected code the internet runs on.[^cii] $100,000 a year each was pocket change for any of them. Any one could have paid. None did, until the disaster made it embarrassing not to.
 
 That's the catch: with several big players, it turns back into chicken. Each would rather another paid.
 
@@ -298,7 +298,7 @@ Nicky Case, [The Evolution of Trust](https://ncase.me/trust/) (2017, about 30 mi
 Image credits: [assets/SOURCES.md](assets/SOURCES.md).
 
 [^truce]: Ashworth, *Trench Warfare 1914–1918: The Live and Let Live System* (1980); Axelrod, *The Evolution of Cooperation* (1984), ch. 4. Not the Christmas truce of 1914, a single, famous, short episode. The live-and-let-live system ran through 1915–16 on quiet sectors; it was much less common in big offensives.
-[^trucedetail]: The meal-time truces, the regular evening shelling, "shooting high" and passing the arrangement to relieving units: Ashworth (1980); Axelrod (1984), ch. 4.
+[^trucedetail]: Meal-time truces, unshelled ration wagons and water carts (Ian Hay, 1916, quoted in Axelrod), the evening shelling, deliberately "bad shooting", and briefing relieving units: Axelrod (1984), ch. 4, drawing on Ashworth (1980).
 [^folk]: Folk theorem: in an infinitely (or indefinitely) repeated game, with players patient enough, cooperation can be sustained as an equilibrium. So can many other outcomes, including defection: possible, not likely. "Shadow of the future" is Axelrod's phrase.
 [^raids]: Ashworth (1980) treats the raid as high command's main weapon against live and let live: a raid was hard to fake, and it provoked retaliation, which reset the cycle. Rotating units is sometimes cited too, but relieving units often inherited the deal.
 [^reputation]: Indirect reciprocity: Nowak and Sigmund, *Nature* (1998, 2005): "I help you, someone helps me". Gossip as reputation: Dunbar, *Grooming, Gossip and the Evolution of Language* (1996); experimental: Sommerfeld et al., *PNAS* (2007).
@@ -308,18 +308,18 @@ Image credits: [assets/SOURCES.md](assets/SOURCES.md).
 [^antisocial]: Herrmann, Thöni and Gächter, "Antisocial Punishment Across Societies", *Science* (2008): across 16 subject pools in different countries, the rate of punishing cooperators varied a lot, and where it was high contributions stayed low.
 [^ostrom]: Ostrom (1990): Törbel (Switzerland) and Hirano, Nagaike and Yamanoka (Japan) for forests and meadows; the huertas of Valencia, Murcia and Orihuela (Spain) for irrigation; Alanya (Turkey) for fishing. Nobel in economics, 2009, the first woman to win it.
 [^graduated]: Ostrom's design principle 5, graduated sanctions; principle 4, monitoring, often by the users themselves; principle 3, collective-choice arrangements (those affected can change the rules). The "tit-for-tat that forgives" parallel is mine.
-[^imposed]: Ostrom (1990), ch. 1, and work on Nepal's irrigation (Lam 1998): farmer-run systems often outperformed government-built ones. Ostrom also cites nationalised forests and inshore fisheries where the old local rules lost force. "Naive mechanism design" is my framing.
+[^imposed]: Ostrom (1990), ch. 1, and work on Nepal's irrigation (Lam 1998): farmer-run systems often outperformed government-built ones. Ostrom also cites Nepal's forests: the Private Forests Nationalization Act of 1957 turned village forests into open access, and the old local rules lost force (Arnold and Campbell 1986; Agrawal and Ostrom 2001). How far the Act itself drove deforestation is debated. Nepal later handed forests back to community user groups. "Naive mechanism design" is my framing.
 [^ostrommyth]: Ostrom, Nobel lecture (2009); "no panaceas": Ostrom, Janssen and Anderies, *PNAS* (2007). Her own later work (Dietz, Ostrom and Stern, *Science*, 2003) addresses global commons and is cautious.
 [^olson]: Olson, *The Logic of Collective Action* (1965). Caveat on group size: Marwell and Oliver, *The Critical Mass in Collective Action* (1993).
-[^privileged]: Olson (1965), pp. 49–50: a privileged group is one where at least one member gains enough from the collective good to provide it alone. With several such members, each would rather another paid: it's chicken (p. 50, n. 70).
+[^privileged]: Olson (1965), pp. 49–50: a privileged group is one where at least one member gains enough from the collective good to provide it alone. With several such members, each would rather another paid: it's chicken (p. 50, n. 70). Olson calls the lopsided result "the exploitation of the great by the small" (p. 35).
 [^nato]: Olson and Zeckhauser, "An Economic Theory of Alliances", *Review of Economics and Statistics* (1966): in NATO, the larger members (above all the US) bore a disproportionate share of the cost.
-[^cii]: The Core Infrastructure Initiative, launched by the Linux Foundation in April 2014: founding backers included Amazon, Cisco, Dell, Facebook, Fujitsu, Google, IBM, Intel, Microsoft, NetApp, Qualcomm, Rackspace and VMware, each committing $100,000 a year for three years (about $3.9M). CII was succeeded by the Open Source Security Foundation in 2020.
+[^cii]: The Core Infrastructure Initiative, launched by the Linux Foundation on 24 April 2014: 13 founding backers (Amazon Web Services, Cisco, Dell, Facebook, Fujitsu, Google, IBM, Intel, Microsoft, NetApp, Qualcomm, Rackspace, VMware), each pledging $100,000 a year for three years, about $3.9M. It funded OpenSSL first, then OpenSSH, GnuPG, NTP and others. Before Heartbleed, OpenSSL got about $2,000 a year in donations. Succeeded by the Open Source Security Foundation.
 [^nesting]: Ostrom's design principle 8, nested enterprises. Polycentricity in full is rung 3.
 [^labs]: Frontier labs as of late 2026: OpenAI, Anthropic, Google DeepMind, Meta, xAI in the US; DeepSeek, Alibaba (Qwen), Moonshot and others in China. Seeing: compute governance (Sastry, Heim et al., "Computing Power and the Governance of AI", 2024); export controls on chips (US, from October 2022). Punishing a state: there's no Leviathan above them, which is rung 3.
 [^backward]: My draft answer; push back. Two parts. (1) The payoffs: winner takes all makes the prize dwarf anything cooperation buys along the way, so it changes the game as well as the dimension. (2) The sharper game-theory version is backward induction: in a finitely repeated prisoner's dilemma with a *known* last round, the only equilibrium is to defect every round (Luce and Raiffa, 1957). The labs don't know the date, and an uncertain end is the folk-theorem case where cooperation can hold, so backward induction applies only loosely: a nearer, more likely end shortens the shadow. In the lab, people cooperate until near the end and then defect (Selten and Stoecker, 1986, the "end-game effect").
 [^twoscales]: The same structure at two scales. Cross-lab cooperation includes joint safety statements, shared evaluations and researchers moving between labs.
 [^zapotec]: Curtin, Vásquez Martinez, Vásquez Vásquez and Henrich, "Zapotec cooperative institutions", *Current Anthropology* (forthcoming): in one Zapotec village in Oaxaca, two institutions combine reciprocity, reputation and punishment in different ways.
-[^boundaries]: Ostrom's design principle 1: clearly defined boundaries. Törbel restricted rights to the alp to its citizens (Ostrom 1990, pp. 61–65).
+[^boundaries]: Ostrom's design principle 1: clearly defined boundaries. Access to Törbel's alp was "strictly limited to citizens"; the villagers formed an association to regulate the alp in 1483 (Ostrom 1990, pp. 61–62, citing Netting).
 
 ---
 
