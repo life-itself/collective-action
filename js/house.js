@@ -89,7 +89,7 @@
         const roomy = box.left - edge >= 90;   // room for the ticks beside the text
         rail.hidden = !roomy;
         inline.hidden = roomy;
-        rail.style.left = Math.max(edge + 12, box.left - 76) + 'px';
+        rail.style.left = (edge ? edge + 16 : 16) + 'px';   // far left, as in the Claude viewer (past the sidebar if there is one)
       };
       const update = () => {
         const top = prose.getBoundingClientRect().top;
