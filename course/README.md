@@ -11,8 +11,8 @@ The course runs as a ladder. First, a portable tool for diagnosing collective ac
 
 1. [Chapter 0: Intro and motivation](0-intro/) – why collective action, and why now.
 2. [Chapter 1: The basics](1-basics/) – what collective action is, and how to diagnose it.
-3. Chapter 2: Small groups, the village toolkit – *coming soon*
-4. Chapter 3: The manufactured tribe – *coming soon*
+3. [Chapter 2: The village toolkit](2-village-toolkit/) – how small groups make cooperation hold.
+4. [Chapter 3: The manufactured tribe](3-manufactured-tribe/) – how we stretched kinship to strangers.
 5. Chapter 4: Strangers and states – *coming soon*
 
 **[Start with Chapter 0 →](0-intro/)**

@@ -346,7 +346,7 @@ Part 2 is the climb: bands, villages, states, the globe. At each rung we'll ask 
 > - **The number of players is the master variable.** As it grows, seeing, punishing and meeting again fail, and at scale failure is the default. Success is a breakthrough.
 > - **Two levers**: change the game, or change the dimensions.
 
-Two flatmates can keep a kitchen clean; ten million strangers can't keep the air clean. But for most of human history there were no states and no contracts, only bands and villages, and some of them kept their forests, pastures and fishing grounds going for centuries. How do the smallest groups make cooperation hold, and what can we borrow from them? That's where the climb begins, in chapter 2, "The village toolkit".
+Two flatmates can keep a kitchen clean; ten million strangers can't keep the air clean. But for most of human history there were no states and no contracts, only bands and villages, and some of them kept their forests, pastures and fishing grounds going for centuries. How do the smallest groups make cooperation hold, and what can we borrow from them? That's where the climb begins, in [chapter 2, "The village toolkit"](../2-village-toolkit/).
 
 ---
 
@@ -500,4 +500,4 @@ Image credits: [assets/SOURCES.md](assets/SOURCES.md).
 
 ---
 
-[← Chapter 0: Intro and motivation](../0-intro/) · [Course home](../) · Next: Chapter 2, The village toolkit (coming soon)
+[← Chapter 0: Intro and motivation](../0-intro/) · [Course home](../) · [Next: Chapter 2, The village toolkit →](../2-village-toolkit/)
