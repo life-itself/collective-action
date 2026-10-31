@@ -213,17 +213,17 @@ Several. Start with the labs. Many have something like a creed: a charter or a p
 
 ### A community with costly signals
 
-Then the safety community, which runs across the labs, with its own language and its own conferences. Its commitments are backed by costly signals people have actually paid: researchers who resigned in public rather than stay quiet.[^signals] By this chapter's standards, that's a strong tribe.
+Then the safety community, which runs across the labs, with its own language and its own conferences. Its commitments are backed by costly signals people have actually paid: researchers who risked their equity, or resigned in public, rather than stay quiet.[^signals] By this chapter's standards, that's a strong tribe.
 
 ### Do the creeds hold?
 
-Mixed. The race puts every creed under pressure, and some of the people who hold them leave. The tribe can hold its members, but it can't hold the labs they work for.
+Mixed. Under the pressure of the race, creeds get reinterpreted, policies get rewritten, and some of the people who hold them leave.[^bend] The tribe can hold its members, but it can't hold the labs they work for.
 
 ### Tribe against tribe
 
 Every tribe has an outside. The safety community has the accelerationists, and they have the "doomers". Both sometimes forget the public, whose future is being decided.
 
-And the same tool works one level up: democracies against autocracies, the US against China. Each country's labs and governments become a tribe, and the other side becomes the rival. The tool that binds a lab is the tool that drives the race.
+And the same tool works one level up: democracies against autocracies, the US against China.[^democracies] Each country's labs and governments become a tribe, and the other side becomes the rival. The tool that binds a lab is the tool that drives the race.
 
 ## 7. Who is a tribe against?
 
@@ -232,7 +232,7 @@ And the same tool works one level up: democracies against autocracies, the US ag
 
 ### War and the in-group
 
-Go back to the rites of terror. A tribe facing an enemy needs men who won't run, and an ordeal shows who won't.
+Go back to the rites of terror. Where are they harshest? Sosis and colleagues compared dozens of societies: the costliest male initiations go with warfare, and permanent marks like scars go with war against outsiders.[^scars] A tribe facing an enemy needs men who won't run, and an ordeal shows who won't.
 
 ![Marching hoplites in a tight line, detail of the Chigi vase](assets/chigi-vase-hoplites.jpg)
 *The men who won't run: hoplites on the Chigi vase, c. 640 BC, from chapter 1. Public domain.*
@@ -287,7 +287,7 @@ The rival tribe. And, in Ilahita, the tribe's own women.
 
 ### The limit
 
-The tribe runs on belief and kin. It holds while people believe the story and feel the bond. And belief can end.
+The tribe runs on belief and kin. It holds while people believe the story and feel the bond. And belief can end. In Ilahita it did: in 1984 a Christian revival swept the village, and in church the men confessed the Tambaran's secrets to the women and children.[^cassowary]
 
 It doesn't stretch, either. No ordeal can be shared by millions. No one can be a fictive cousin to a whole empire.
 
@@ -345,11 +345,15 @@ Image credits: [assets/SOURCES.md](assets/SOURCES.md).
 [^culturalevolution]: Boyd and Richerson, *Culture and the Evolutionary Process* (1985) and *Not by Genes Alone* (2005); Henrich, *The Secret of Our Success* (2016). Henrich (2020), pp. 96–97, lists five processes of competition between groups, of which the Sepik shows three: war and raiding, differential migration, and prestige-biased group transmission (copying the more successful group). The yam magic: Henrich (2020), p. 97 ("probably didn't contribute to anyone's success").
 [^groupselection]: Pinker, "The false allure of group selection", *Edge* (2012); West, El Mouden and Gardner, "Sixteen common misconceptions about the evolution of cooperation in humans", *Evolution and Human Behavior* (2011). Replies: Richerson et al., "Cultural group selection plays an essential role in explaining human cooperation", *Behavioral and Brain Sciences* (2016), with commentaries.
 [^charter]: OpenAI Charter (9 April 2018), under "Long-Term Safety": "We are concerned about late-stage AGI development becoming a competitive race without time for adequate safety precautions. Therefore, if a value-aligned, safety-conscious project comes close to building AGI before we do, we commit to stop competing with and start assisting this project." Its example trigger: "a better-than-even chance of success in the next two years". https://openai.com/charter/
-[^signals]: For example, in May 2024 OpenAI's head of alignment resigned, saying safety had "taken a backseat to shiny products" (Fortune, 17 May 2024).
+[^signals]: In May 2024 an OpenAI researcher refused to sign a non-disparagement agreement, risking about $2m of vested equity (Vox, 17 May 2024); OpenAI then said it would not cancel vested units. The same week OpenAI's head of alignment resigned, saying safety had "taken a backseat to shiny products" (Fortune, 17 May 2024). In February 2026 the head of Anthropic's safeguards research resigned with a public letter: "the world is in peril".
 [^bauer]: Bauer, Blattman, Chytilová, Henrich, Miguel and Mitts, "Can war foster cooperation?", *Journal of Economic Perspectives* 30 (2016): 249–74. About 20 studies; exposure to war violence raises cooperation, in games, community participation and trust, and the effect lasts. Where it can be told, it's mostly toward the in-group; the authors flag that as preliminary.
 [^choibowles]: Choi and Bowles, "The coevolution of parochial altruism and war", *Science* 318 (2007): 636–40: game-theoretic analysis and agent-based simulations, not evidence that it happened. Altruism and parochialism could evolve together under late-Pleistocene conditions, though neither alone would be viable.
 [^killing]: Henrich (2020), p. 93: "initiates had to hunt down and kill men from enemy communities in order to 'feed' the Tambaran gods".
-[^women]: Henrich (2020), pp. 92–93: boys were "warned never to reveal anything about these special rituals to women, under pain of death". Women were not wholly excluded: Henrich's Fig. 3.1 shows wives dancing in a Tambaran rite.
+[^women]: Henrich (2020), pp. 92–93: boys were "warned never to reveal anything about these special rituals to women, under pain of death". Women were not wholly excluded: Henrich's Fig. 3.1 shows wives dancing in a Tambaran rite. The cult's voices and spirits were staged to frighten women and children; Tuzin, *The Voice of the Tambaran* (1980), is about this "truth and illusion".
+[^scars]: Sosis, Kress and Boster, "Scars for war: evaluating alternative signaling explanations for cross-cultural variance in ritual costs", *Evolution and Human Behavior* 28 (2007): 234–47. Coded from the Human Relations Area Files. Warfare, internal or external, predicts costlier male rites; permanent marks are likelier with external war, temporary ones with internal war, where alliances shift and a permanent mark is a liability. Correlational. Summarised in Ember, Pitek and Ringen, "Adolescence", HRAF *Explaining Human Culture* (2017).
+[^cassowary]: Tuzin, *The Cassowary's Revenge: The Life and Death of Masculinity in a New Guinea Society* (1997); Lipset and Roscoe, introduction to *Echoes of the Tambaran* (2011): the cult collapsed in 1984 "amid millenarian expectations fomented by a 'Christian revival'", when confessions in church revealed its secrets to women and children. Tuzin's publisher calls it men "voluntarily" destroying the cult that let them dominate women.
+[^bend]: OpenAI, Preparedness Framework v2 (15 April 2025), §4.3: if a rival releases a High-capability system without comparable safeguards, "we could adjust accordingly the level of safeguards that we require", only if risk doesn't meaningfully rise, the change is public, and its safeguards stay "more protective than the other AI developer". Anthropic, Responsible Scaling Policy v3.0 (24 February 2026), drops the earlier commitment to pause; GovAI (Williams and Freund, 5 March 2026): it "no longer implies that it will pause". Anthropic frames it as a collective action problem.
+[^democracies]: For example, Sam Altman, "Who will control the future of AI?", *Washington Post*, 25 July 2024: "democratic AI has a lead over authoritarian AI", and a US-led coalition should keep it (quoted in Fortune).
 [^brewer]: Brewer, "The psychology of prejudice: ingroup love or outgroup hate?", *Journal of Social Issues* 55 (1999): 429–44. Core claim: in-group attachment doesn't require out-group hostility; much in-group bias is favouring your own, not hating others.
 [^subak]: Lansing, *Priests and Programmers* (1991) and *Perfect Order* (2006). Contested: Helmreich (1999, 2000). The case stands; the strength of the mechanism is what's disputed. Strictly a coordination problem (closer to the stag hunt than the battle line).
 
