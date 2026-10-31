@@ -1,11 +1,10 @@
 /* Research site house style v0, pilot (life-itself/design: incubator/research-site-style/, project 2640).
    From the Claude Markdown previewer: one sans (Inter) at 16px on a 1.6 line, a 36em column, headings in the
    same face with the hierarchy carried by space, warm greys with every border and fill a tint of the ink, one
-   accent. SoR touch: the page title in Restora (fonts/Restora-Medium.woff2, licensed). js/house.js (loaded
+   accent. Titles in the same face, as the viewer and Anthropic's research pages do. js/house.js (loaded
    through config.json "head") adds footnote cards and a contents rail, which replaces the contents panel. */
 
 @import url("https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400..650&family=JetBrains+Mono:wght@400;500&display=swap");
-@font-face { font-family: "Restora"; font-weight: 500; font-display: swap; src: url("/fonts/Restora-Medium.woff2") format("woff2"); }
 
 :root {
   --body: 16px;
@@ -13,7 +12,6 @@
   --measure: 36em;
   --sans: "Inter", system-ui, sans-serif;
   --mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
-  --title: "Restora", Georgia, serif;
   --ink: #0b0b0b;
   --ink-2: #52514e;
   --ink-3: #898781;
@@ -33,7 +31,7 @@
 body { font-family: var(--sans); color: var(--ink); background: var(--paper); font-optical-sizing: auto; }
 
 /* Frame: quieter navbar and footer in the same face. */
-.site-navbar-site-name { font-family: var(--title); font-weight: 500; letter-spacing: 0; }
+.site-navbar-site-name { font-family: var(--sans); font-weight: 600; letter-spacing: -0.01em; }
 .site-footer { font-family: var(--sans); }
 
 /* Contents: the rail from js/house.js replaces the right-hand panel, so drop its grid column and centre the text. */
@@ -46,7 +44,7 @@ body { font-family: var(--sans); color: var(--ink); background: var(--paper); fo
 
 /* Page header. */
 .page-header { max-width: var(--measure); }
-.page-header-title { font-family: var(--title) !important; font-weight: 500 !important; font-size: clamp(32px, 4.4vw, 44px) !important; line-height: 1.12 !important; letter-spacing: -0.012em !important; color: var(--ink); text-wrap: balance; }
+.page-header-title { font-family: var(--sans) !important; font-weight: 600 !important; font-size: clamp(30px, 4vw, 40px) !important; line-height: 1.15 !important; letter-spacing: -0.022em !important; color: var(--ink); text-wrap: balance; }
 .page-header-description { font-family: var(--sans); font-size: 1.15rem; line-height: 1.45; color: var(--ink-2); text-wrap: balance; }
 
 /* ── Prose ─────────────────────────────────────────────────── */
@@ -84,18 +82,24 @@ body { font-family: var(--sans); color: var(--ink); background: var(--paper); fo
 .rendered-mdx:not(.is-plain) :not(pre) > code::before, .rendered-mdx:not(.is-plain) :not(pre) > code::after { content: none; }
 .rendered-mdx:not(.is-plain) pre { font-family: var(--mono); font-size: calc(var(--body) - 2px); line-height: 1.54; border-radius: 9px; }
 
-.rendered-mdx:not(.is-plain) table { display: block; width: fit-content; max-width: 100%; overflow-x: auto; border-collapse: separate; border-spacing: 0; border: 1px solid var(--line); border-radius: 6px; font-size: 0.9375em; line-height: 1.5; font-variant-numeric: tabular-nums lining-nums; }
+.rendered-mdx:not(.is-plain) table { display: table; width: 100%; max-width: 100%; border-collapse: separate; border-spacing: 0; border: 1px solid var(--line); border-radius: 6px; font-size: 0.9375em; line-height: 1.5; font-variant-numeric: tabular-nums lining-nums; }
 .rendered-mdx:not(.is-plain) :is(th, td) { padding: 0.5em 0.875em; text-align: start; vertical-align: top; border: 0; }
 .rendered-mdx:not(.is-plain) th { font-weight: 600; line-height: 1.3; vertical-align: bottom; background: var(--tint); box-shadow: inset 0 -1px var(--line); color: var(--ink); }
 .rendered-mdx:not(.is-plain) tbody tr + tr td { border-top: 1px solid var(--line); }
 .rendered-mdx:not(.is-plain) hr { border: 0; border-top: 1px solid var(--line); margin-block: 2.75em; }
 .rendered-mdx:not(.is-plain) img { border-radius: 4px; }
 
-/* Callouts: keep each type's colour, quieter: a light tint, a rule at the start, the same face as the text. */
-.rendered-mdx [data-callout] { font-family: var(--sans); font-size: 0.95em; line-height: 1.55; background: color-mix(in srgb, var(--callout-color, var(--accent)) 7%, var(--paper)) !important; border: 0 !important; border-inline-start: 2px solid var(--callout-color, var(--accent)) !important; border-radius: 0 6px 6px 0 !important; padding: 0.9em 1.1em !important; }
-.rendered-mdx [data-callout] [data-callout-title] { font-family: var(--sans); font-weight: 600; font-size: 0.95em; }
+/* Callouts: each type in its own colour: a soft tint of it, a fine border, the title and icon in a deeper shade.
+   The course reader boxes below set --callout-color per type (reflect, exercise, poll, key ideas). */
+.rendered-mdx [data-callout] { --c: var(--callout-color, var(--accent)); font-family: var(--sans); font-size: 0.95em; line-height: 1.55; color: var(--ink); background: color-mix(in srgb, var(--c) 8%, var(--paper)) !important; border: 1px solid color-mix(in srgb, var(--c) 28%, var(--paper)) !important; border-radius: 10px !important; padding: 0.95em 1.15em 1.05em !important; box-shadow: none !important; }
+.rendered-mdx [data-callout] > [data-callout-title] { font-family: var(--sans); font-weight: 600; font-size: 0.95em; letter-spacing: 0; color: color-mix(in srgb, var(--c) 72%, var(--ink)) !important; margin-bottom: 0.4em; }
+.rendered-mdx [data-callout] > [data-callout-title]::before { background-color: color-mix(in srgb, var(--c) 72%, var(--ink)) !important; }
 .rendered-mdx [data-callout] [data-callout-body] > * + * { margin-block-start: 0.75em; }
+.rendered-mdx [data-callout] [data-callout-body] > :first-child { margin-top: 0; }
+.rendered-mdx [data-callout] [data-callout-body] > :last-child { margin-bottom: 0; }
 .rendered-mdx [data-callout] [data-callout-body] :is(p, li) { font-size: inherit; line-height: inherit; }
+.rendered-mdx [data-callout] [data-callout-body] p:empty { display: none; }
+.rendered-mdx [data-callout] [data-callout] { background: var(--paper) !important; }
 
 /* Footnotes: small markers and a quiet end section; js/house.js opens them as cards. */
 .rendered-mdx sup { font-size: 0.75em; line-height: 0; }
