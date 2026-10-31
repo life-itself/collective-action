@@ -26,7 +26,7 @@ There was a bully. Every playground has one. And I remember thinking, very clear
 
 We didn't. Stand up on your own and you don't stop the bully. You just get teased more, or pushed to the ground. So nobody goes first, and the bully carries on.
 
-> [!reflect]
+> [!reflect] Reflect
 > What was your own playground moment?
 
 ### Battles
@@ -89,7 +89,7 @@ That's been my inquiry for much of my life. If you care about the wellbeing of t
 
 And I suspect something similar has brought you here.
 
-> [!reflect]
+> [!reflect] Reflect
 > Was there something like the playground in your childhood? What has brought you to this now?
 
 ## 2. Symptom, organ, cause
@@ -186,7 +186,7 @@ So this isn't an ascent story. I'm not saying bigger is better. I'm saying we're
 
 The question isn't whether we want planetary-scale cooperation. It's how we manage it, because we're already in it.
 
-> [!reflect]
+> [!reflect] Reflect
 > Which did you half-believe before reading this: "it's modernity's fault", "it's an ascent", both, or neither?
 
 ## 4. What you'll get from this course
@@ -237,12 +237,12 @@ At each step we'll ask: what made the jump possible, who did the lifting, and wh
 
 ## 6. Pick your case
 
-> [!exercise] Your case
+> [!exercise] Exercise: Your case
 > Pick the issue you'll carry through the course. Who are the players, and what would they all be better off doing together?
 >
 > Take three minutes to write it down, then talk it over with someone if you can. It needs a definable set of players: "my anxiety" doesn't count, but the collective problem behind it might.
 
-> [!summary] Key ideas
+> [!key] Key ideas
 > - **Collective action** is our ability to act together. We'd all be better off acting together, and none of us can afford to go first alone. Or worse: each of us does better breaking ranks, whatever the others do.
 > - It has many names: the collective action problem, the tragedy of the commons, the free-rider problem, a social dilemma, a race to the bottom, a multipolar trap, Moloch. It can succeed as well as fail.
 > - **Symptom, organ, cause.** The crises in the news are symptoms; collective action failure is the organ; the causes underneath (culture, institutions, technology, psychology) vary. Saying "it's Moloch" names the organ, not the cause, and what you treat depends on the cause.

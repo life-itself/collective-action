@@ -6,7 +6,7 @@ chapter: 1
 
 [Chapter 0](../0-intro/) set out what's at stake, from the playground to the AI race, and why it pays to diagnose before we prescribe: symptom, organ, cause. This chapter gives the basics we'll use for the rest of the course. It starts with one story and ends with two levers for changing things. Part 2, the climb from small groups to the planet, starts in the next chapter.
 
-> [!info] In this chapter
+> [!summary] In this chapter
 > 1. **One story**, the Earth Liberation Front, and the deal its members were offered.
 > 2. **What collective action is**, in a sentence you can remember and a formal one.
 > 3. **Three patterns**: the battle line, the stag hunt and chicken. You'll work out their payoffs yourself before we name them.
@@ -19,7 +19,7 @@ chapter: 1
 
 ## 1. One story: If a Tree Falls
 
-> [!reflect] Would you talk?
+> [!reflect] Reflect: Would you talk?
 > Years ago you and a few friends did something illegal for a cause you believed in. No one was hurt. Now you're arrested, facing a very long sentence. The prosecutor offers a deal: tell us who else was involved, and you'll get far less. You don't know what the others will do. What do you do?
 
 
@@ -69,7 +69,7 @@ And when it came to it, they were in the most literal version of that problem. T
 
 But not all. McGowan didn't. Three others held out with him. They pleaded guilty to what they'd done, and refused to name anyone else.[^plea]
 
-> [!reflect] What made the four different?
+> [!reflect] Reflect: What made the four different?
 > Look back at your answer to "would you talk?". Did the story change it? What do you think made those four hold out when the others didn't?
 
 ## 2. What is collective action?
@@ -94,7 +94,7 @@ The uncomfortable point: the ones who talked weren't necessarily bad people, or 
 
 Remember the heart from chapter 0. "Heart failure" is a real diagnosis, but there are different kinds, and they need different treatment. Collective action problems are the same. Before I name the kinds, work some out.
 
-> [!exercise] Work the payoffs
+> [!exercise] Exercise: Work the payoffs
 > Work the three cases below (or pick one) and answer for each: (1) What's your best move in each column? (2) Is there an outcome where nobody wants to change what they're doing (a resting point)? Is there more than one? (3) Is that the outcome you'd all want?
 >
 > **A. The hoplite line.** You're one man in a Greek battle line. Your shield covers your neighbour. Your chance of coming home alive (higher is better):
@@ -185,14 +185,14 @@ The cell people miss is taking × chicken; there's more on it under [Going furth
 
 You'll hear lots of other names: race to the bottom, arms race, multipolar trap, free-rider problem. Most of them land somewhere on this picture.[^labels] And the pattern is in the payoffs, which move. The same case can sit in two cells, and slide between them as the numbers change.
 
-> [!poll] Where's the AI race?
+> [!poll] Poll: Where's the AI race?
 > Battle line / Stag hunt / Chicken / Not sure.[^ai]
 
 ## 4. Five dimensions
 
 Same game, played differently.
 
-> [!reflect] Kitchen and climate
+> [!reflect] Reflect: Kitchen and climate
 > Two flatmates mostly keep a shared kitchen clean. Eight billion of us haven't kept the carbon out of the sky. Same kind of problem: clearing up after yourself costs you, and the benefit is shared. List three things that are different.
 
 
@@ -210,7 +210,7 @@ The kitchen passes all five: two players, you'll meet tomorrow, you can see whos
 
 ### The ELF, run through it
 
-> [!reflect] The ELF
+> [!reflect] Reflect: The ELF
 > Before reading on: which of the five worked against the ELF defendants?
 
 A dozen or so players: small, which should have helped. Would they meet again? The group had broken up years before. Could they see who defected? Only through the prosecutor's eyes, one at a time, which is exactly how the dominoes fell. Could they punish defection? Not from prison. Was anyone big enough to act alone? No.
@@ -249,21 +249,21 @@ So which is it, selfish or cooperative? An experiment shows both.[^pgg]
 
 Put people in a group. Each gets some money and can put any of it into a shared pot. The pot is doubled and split equally, whatever you put in. Everyone does best if all contribute. Each does best alone by contributing nothing.
 
-> [!poll] Ten rounds
+> [!poll] Poll: Ten rounds
 > What happens to contributions over ten rounds? Rise / Stay steady / Fall.
 
 Most people start out contributing. Then they notice others free-riding, and round by round, contributions fall to near nothing. Now let people pay a little to punish free-riders. Contributions climb back up and stay there.
 
 Most of us are conditional cooperators. We'll cooperate if others do. The structure decides which side of us shows.
 
-> [!reflect] Your own ten rounds
+> [!reflect] Reflect: Your own ten rounds
 > Think of a group you're in where contributions dwindled: a shared kitchen, a WhatsApp group, a volunteer rota. What happened in round three?
 
 That's what we climb with: an ape that cooperates with strangers, if the structure lets it. (We're also the imitative ape, which matters a lot; see [Going further](#going-further).)
 
 ## 6. Why scale bites
 
-> [!reflect] Strangers who cooperate
+> [!reflect] Reflect: Strangers who cooperate
 > Name a big group of strangers that cooperates well. What makes it work?
 
 ### Moloch names it
@@ -277,7 +277,7 @@ My problem with Moloch is that it turns a design problem into fate, a god we can
 
 I'd say Moloch is a structure, not fate. And the structure has a shape we can name.
 
-> [!reflect] Moloch
+> [!reflect] Reflect: Moloch
 > Does "Moloch" help or hurt as a frame?
 
 ### Kitchen to climate shows it
@@ -313,7 +313,7 @@ None of that was fate. Each time, something changed the structure, or someone we
 
 ## 7. Two levers
 
-> [!exercise] You're the general
+> [!exercise] Exercise: You're the general
 > Back to the hoplite line. Running beats holding in both columns. You command the army. Change one thing so that your men hold. Then: did you change the numbers in the table, or something about the situation (who sees, who remembers, who punishes)?[^general]
 
 ### Change the game, or change the dimensions
@@ -334,10 +334,10 @@ Part 2 is the climb: bands, villages, states, the globe. At each rung we'll ask 
 
 ## 8. Your case
 
-> [!exercise] Your case
+> [!exercise] Exercise: Your case
 > Take the case you chose in chapter 0, or any collective action problem you care about. (1) Which game is it, and is it taking or building? Don't agonise; it may be two. (2) Which of the five dimensions fails worst? (3) Which lever might move it: change the game, or change the dimensions? Write one line for each.
 
-> [!summary] Key ideas
+> [!key] Key ideas
 > - A **collective action problem**: we'd all be better off acting together, but each of us does better going it alone, or can't afford to go first.
 > - **Three patterns**, each with its fix: the **battle line** (prisoner's dilemma), fixed by enforcing; the **stag hunt** (assurance), fixed by reassuring; **chicken** (volunteer's dilemma), fixed by deciding who acts.
 > - **Two mirrors**: taking (restraint, as in the commons) and building (contribution, as in public goods).
