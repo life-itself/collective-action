@@ -2,6 +2,8 @@
 
 This is a markdown-based wiki on collective action and cooperation, published online via [Flowershow](https://flowershow.app) from the `main` branch of this GitHub repo.
 
+**Live at <https://collective-action.seedsofrenaissance.org/>** (custom domain since 31 Oct 2026); the course is at `/course`. The old address, collective-action-rufuspollock.flowershow.me, redirects to the home page and drops the path, so always link the custom domain.
+
 ## Adding content
 
 - Each concept, topic, or note is a `.md` file in the root or a subfolder
