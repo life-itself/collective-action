@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1700 600" role="img" aria-label="Montreal against Kyoto on four features. A few producers: Montreal yes, a few chemical firms; Kyoto no, every economy. Defection you can see: Montreal yes, production and the air; Kyoto no, self-reported. A stick for those who stay out: Montreal yes, trade bans; Kyoto no, you could leave. A cheap substitute: Montreal yes, patented by the same firms; Kyoto no, not in 1997. Result: Montreal worked; Kyoto failed to bind the big emitters.">
+  <style>text{font-family:"Hanken Grotesk","Helvetica Neue",Arial,sans-serif;fill:#5d584f}.ink{fill:#1b1916}.w{fill:#fff}</style>
+  <rect width="1700" height="600" fill="#fbfaf6"/>
+  <text x="840" y="50" font-size="44" text-anchor="middle" class="ink">Montreal, 1987</text>
+  <text x="1380" y="50" font-size="44" text-anchor="middle" class="ink">Kyoto, 1997</text>
+  <g font-size="42">
+    <text x="20" y="140" class="ink">a few producers?</text>
+    <text x="20" y="250" class="ink">defection you can see?</text>
+    <text x="20" y="360" class="ink">a stick for those who stay out?</text>
+    <text x="20" y="470" class="ink">a cheap substitute?</text>
+  </g>
+  <g fill="#ece7dc">
+    <rect x="600" y="85" width="480" height="90"/><rect x="600" y="195" width="480" height="90"/><rect x="600" y="305" width="480" height="90"/><rect x="600" y="415" width="480" height="90"/>
+    <rect x="1140" y="85" width="480" height="90"/><rect x="1140" y="195" width="480" height="90"/><rect x="1140" y="305" width="480" height="90"/><rect x="1140" y="415" width="480" height="90"/>
+  </g>
+  <g font-size="40">
+    <text x="630" y="142" class="ink">✓ a few chemical firms</text>
+    <text x="630" y="252" class="ink">✓ production, the air</text>
+    <text x="630" y="362" class="ink">✓ trade bans</text>
+    <text x="630" y="472" class="ink">✓ the same firms' patents</text>
+    <text x="1170" y="142">✗ every economy</text>
+    <text x="1170" y="252">✗ self-reported</text>
+    <text x="1170" y="362">✗ you could leave</text>
+    <text x="1170" y="472">✗ none in 1997</text>
+  </g>
+  <rect x="600" y="525" width="480" height="70" fill="#1b1916"/><text x="840" y="574" font-size="40" text-anchor="middle" class="w">worked</text>
+  <rect x="1140" y="525" width="480" height="70" fill="#e5201c"/><text x="1380" y="574" font-size="40" text-anchor="middle" class="w">failed to bind</text>
+</svg>

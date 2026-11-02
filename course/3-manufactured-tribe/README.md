@@ -359,4 +359,4 @@ Image credits: [assets/SOURCES.md](assets/SOURCES.md).
 
 ---
 
-[← Chapter 2: The village toolkit](../2-village-toolkit/) · [Course home](../) · Next: Chapter 4, Strangers and states (coming soon)
+[← Chapter 2: The village toolkit](../2-village-toolkit/) · [Course home](../) · [Next: Chapter 4, Strangers and states →](../4-strangers-and-states/)

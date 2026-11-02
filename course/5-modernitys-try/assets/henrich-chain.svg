@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1700 660" role="img" aria-label="Henrich's chain, top to bottom: the Church's marriage rules; then clans broken up (each century under the Church, nearly 60% less cousin marriage); then trust in strangers (cousin marriage from 10% to near zero: refusals to lie for a friend rise from under 60% to about 90%); then guilds, towns, courts and markets. Labelled: Henrich's reading, contested.">
+  <style>text{font-family:"Hanken Grotesk","Helvetica Neue",Arial,sans-serif;fill:#5d584f}.ink{fill:#1b1916}.w{fill:#fff}</style>
+  <rect width="1700" height="660" fill="#fbfaf6"/>
+  <g>
+    <rect x="80" y="10" width="760" height="110" fill="#1b1916"/>
+    <text x="460" y="62" font-size="44" text-anchor="middle" class="w">the Church's marriage rules</text>
+    <text x="460" y="104" font-size="34" text-anchor="middle" style="fill:#ece7dc">no cousins · one wife · consent</text>
+    <rect x="80" y="190" width="760" height="100" fill="#ece7dc"/>
+    <text x="460" y="255" font-size="46" text-anchor="middle" class="ink">clans broken up</text>
+    <rect x="80" y="360" width="760" height="100" fill="#ece7dc"/>
+    <text x="460" y="425" font-size="46" text-anchor="middle" class="ink">trust in strangers</text>
+    <rect x="80" y="530" width="760" height="100" fill="#e5201c"/>
+    <text x="460" y="595" font-size="44" text-anchor="middle" class="w">guilds, towns, courts, markets</text>
+  </g>
+  <g stroke="#1b1916" stroke-width="5" fill="none">
+    <path d="M460 122v62M444 166l16 18 16-18"/><path d="M460 292v62M444 336l16 18 16-18"/><path d="M460 462v62M444 506l16 18 16-18"/>
+  </g>
+  <text x="900" y="150" font-size="40">each century under the Church:</text>
+  <text x="900" y="196" font-size="40" class="ink">nearly 60% less cousin marriage</text>
+  <text x="900" y="320" font-size="40">cousin marriage 10% → near zero:</text>
+  <text x="900" y="366" font-size="40" class="ink">won't lie for a friend: &lt;60% → ~90%</text>
+  <text x="900" y="500" font-size="40">voluntary groups of strangers,</text>
+  <text x="900" y="546" font-size="40">with rules for all members</text>
+  <text x="1660" y="640" font-size="34" text-anchor="end" font-style="italic">Henrich's reading; contested</text>
+</svg>

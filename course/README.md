@@ -13,7 +13,9 @@ The course runs as a ladder. First, a portable tool for diagnosing collective ac
 2. [Chapter 1: The basics](1-basics/) – what collective action is, and how to diagnose it.
 3. [Chapter 2: The village toolkit](2-village-toolkit/) – how small groups make cooperation hold.
 4. [Chapter 3: The manufactured tribe](3-manufactured-tribe/) – how we stretched kinship to strangers.
-5. Chapter 4: Strangers and states – *coming soon*
+5. [Chapter 4: Strangers and states](4-strangers-and-states/) – how rulers who could punish and gods who could see made states of strangers.
+6. [Chapter 5: Modernity's try](5-modernitys-try/) – nations, trust in strangers, the rule of law and treaties, up to the global.
+7. The interlude: What did the lifting? – *coming soon*
 
 **[Start with Chapter 0 →](0-intro/)**
 

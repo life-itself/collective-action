@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1700 620" role="img" aria-label="Two panels with the same eight villages. Left, a state: every village is tied by a line upward to the king, and the villages are not tied to each other. Right, a nation: the villages are tied to each other by lines across.">
+  <style>text{font-family:"Hanken Grotesk","Helvetica Neue",Arial,sans-serif;fill:#5d584f}.ink{fill:#1b1916}.w{fill:#fff}</style>
+  <rect width="1700" height="620" fill="#fbfaf6"/>
+  <!-- left: a state -->
+  <text x="400" y="50" font-size="46" text-anchor="middle" class="ink">a state</text>
+  <rect x="300" y="85" width="200" height="90" fill="#1b1916"/>
+  <text x="400" y="143" font-size="42" text-anchor="middle" class="w">king</text>
+  <g stroke="#1b1916" stroke-width="4">
+    <line x1="400" y1="175" x2="90" y2="400"/><line x1="400" y1="175" x2="250" y2="460"/><line x1="400" y1="175" x2="400" y2="390"/><line x1="400" y1="175" x2="560" y2="460"/><line x1="400" y1="175" x2="710" y2="400"/>
+    <line x1="400" y1="175" x2="170" y2="520"/><line x1="400" y1="175" x2="480" y2="530"/><line x1="400" y1="175" x2="640" y2="530"/>
+  </g>
+  <g fill="#ece7dc" stroke="#e0dacf" stroke-width="3">
+    <circle cx="90" cy="400" r="34"/><circle cx="250" cy="460" r="34"/><circle cx="400" cy="390" r="34"/><circle cx="560" cy="460" r="34"/><circle cx="710" cy="400" r="34"/>
+    <circle cx="170" cy="530" r="34"/><circle cx="480" cy="540" r="34"/><circle cx="640" cy="540" r="34"/>
+  </g>
+  <text x="400" y="610" font-size="40" text-anchor="middle">ties run up to the king</text>
+  <line x1="850" y1="30" x2="850" y2="590" stroke="#e0dacf" stroke-width="3"/>
+  <!-- right: a nation -->
+  <text x="1300" y="50" font-size="46" text-anchor="middle" class="ink">a nation</text>
+  <g stroke="#e5201c" stroke-width="5">
+    <line x1="990" y1="400" x2="1150" y2="460"/><line x1="1150" y1="460" x2="1300" y2="390"/><line x1="1300" y1="390" x2="1460" y2="460"/><line x1="1460" y1="460" x2="1610" y2="400"/>
+    <line x1="990" y1="400" x2="1070" y2="530"/><line x1="1070" y1="530" x2="1150" y2="460"/><line x1="1150" y1="460" x2="1380" y2="540"/><line x1="1380" y1="540" x2="1300" y2="390"/>
+    <line x1="1380" y1="540" x2="1540" y2="540"/><line x1="1540" y1="540" x2="1460" y2="460"/><line x1="1540" y1="540" x2="1610" y2="400"/><line x1="1070" y1="530" x2="1380" y2="540"/>
+    <line x1="990" y1="400" x2="1300" y2="390"/><line x1="1300" y1="390" x2="1610" y2="400"/>
+  </g>
+  <g fill="#ece7dc" stroke="#e0dacf" stroke-width="3">
+    <circle cx="990" cy="400" r="34"/><circle cx="1150" cy="460" r="34"/><circle cx="1300" cy="390" r="34"/><circle cx="1460" cy="460" r="34"/><circle cx="1610" cy="400" r="34"/>
+    <circle cx="1070" cy="530" r="34"/><circle cx="1380" cy="540" r="34"/><circle cx="1540" cy="540" r="34"/>
+  </g>
+  <text x="1300" y="610" font-size="40" text-anchor="middle">ties run between strangers</text>
+</svg>
