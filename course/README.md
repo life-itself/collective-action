@@ -15,7 +15,8 @@ The course runs as a ladder. First, a portable tool for diagnosing collective ac
 4. [Chapter 3: The manufactured tribe](3-manufactured-tribe/) – how we stretched kinship to strangers.
 5. [Chapter 4: Strangers and states](4-strangers-and-states/) – how rulers who could punish and gods who could see made states of strangers.
 6. [Chapter 5: Modernity's try](5-modernitys-try/) – nations, trust in strangers, the rule of law and treaties, up to the global.
-7. The interlude: What did the lifting? – *coming soon*
+7. [Interlude: What did the lifting?](5b-what-did-the-lifting/) – culture, institutions or technology: what got strangers to cooperate, and why it is a loop, not a ladder.
+8. [Chapter 6: The planetary leap](6-planetary-leap/) – eight billion, no outside, and three places to push.
 
 **[Start with Chapter 0 →](0-intro/)**
 

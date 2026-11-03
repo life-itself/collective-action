@@ -51,7 +51,9 @@
     "/course/2-village-toolkit/assets",
     "/course/3-manufactured-tribe/assets",
     "/course/4-strangers-and-states/assets",
-    "/course/5-modernitys-try/assets"
+    "/course/5-modernitys-try/assets",
+    "/course/5b-what-did-the-lifting/assets",
+    "/course/6-planetary-leap/assets"
   ],
   "head": "<script defer src=\"/js/house.js\"></script>"
 }

@@ -371,4 +371,4 @@ Image credits: [assets/SOURCES.md](assets/SOURCES.md).
 
 ---
 
-[← Chapter 4: Strangers and states](../4-strangers-and-states/) · [Course home](../) · Next: the interlude, What did the lifting? (coming soon)
+[← Chapter 4: Strangers and states](../4-strangers-and-states/) · [Course home](../) · [Next: Interlude, What did the lifting? →](../5b-what-did-the-lifting/)

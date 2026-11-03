@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1000" role="img" aria-label="A blank loop for the exercise: five empty boxes in a circle joined by arrows, each with a line for what happens and a line for its type, a start marker beside the top box, and in the middle the question: where could someone push? Underneath: label each box culture, institution, technology, coercion or the land.">
+  <style>text{font-family:"Hanken Grotesk","Helvetica Neue",Arial,sans-serif;fill:#1b1916}.m{fill:#5d584f}</style>
+  <defs><marker id="h" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1b1916"/></marker></defs>
+  <rect width="1200" height="1000" fill="#fbfaf6"/>
+  <line x1="732" y1="219" x2="849" y2="289" stroke="#1b1916" stroke-width="5" marker-end="url(#h)"/>
+  <line x1="949" y1="447" x2="866" y2="658" stroke="#1b1916" stroke-width="5" marker-end="url(#h)"/>
+  <line x1="671" y1="737" x2="529" y2="737" stroke="#1b1916" stroke-width="5" marker-end="url(#h)"/>
+  <line x1="334" y1="658" x2="251" y2="447" stroke="#1b1916" stroke-width="5" marker-end="url(#h)"/>
+  <line x1="351" y1="289" x2="468" y2="219" stroke="#1b1916" stroke-width="5" marker-end="url(#h)"/>
+  <rect x="450" y="75" width="300" height="130" fill="#ffffff" stroke="#1b1916" stroke-width="4"/>
+  <line x1="474" y1="133" x2="726" y2="133" stroke="#d8d1c3" stroke-width="3"/>
+  <text x="474" y="179" font-size="24" class="m">type: </text>
+  <line x1="540" y1="181" x2="726" y2="181" stroke="#d8d1c3" stroke-width="3"/>
+  <rect x="830" y="303" width="300" height="130" fill="#ffffff" stroke="#1b1916" stroke-width="4"/>
+  <line x1="854" y1="361" x2="1106" y2="361" stroke="#d8d1c3" stroke-width="3"/>
+  <text x="854" y="407" font-size="24" class="m">type: </text>
+  <line x1="920" y1="409" x2="1106" y2="409" stroke="#d8d1c3" stroke-width="3"/>
+  <rect x="685" y="672" width="300" height="130" fill="#ffffff" stroke="#1b1916" stroke-width="4"/>
+  <line x1="709" y1="730" x2="961" y2="730" stroke="#d8d1c3" stroke-width="3"/>
+  <text x="709" y="776" font-size="24" class="m">type: </text>
+  <line x1="775" y1="778" x2="961" y2="778" stroke="#d8d1c3" stroke-width="3"/>
+  <rect x="215" y="672" width="300" height="130" fill="#ffffff" stroke="#1b1916" stroke-width="4"/>
+  <line x1="239" y1="730" x2="491" y2="730" stroke="#d8d1c3" stroke-width="3"/>
+  <text x="239" y="776" font-size="24" class="m">type: </text>
+  <line x1="305" y1="778" x2="491" y2="778" stroke="#d8d1c3" stroke-width="3"/>
+  <rect x="70" y="303" width="300" height="130" fill="#ffffff" stroke="#1b1916" stroke-width="4"/>
+  <line x1="94" y1="361" x2="346" y2="361" stroke="#d8d1c3" stroke-width="3"/>
+  <text x="94" y="407" font-size="24" class="m">type: </text>
+  <line x1="160" y1="409" x2="346" y2="409" stroke="#d8d1c3" stroke-width="3"/>
+  <text x="430" y="154" font-size="44" text-anchor="end" style="fill:#e5201c">▶</text>
+  <text x="430" y="196" font-size="24" text-anchor="end" class="m">start here?</text>
+  <text x="600" y="478" font-size="34" text-anchor="middle">Where could</text>
+  <text x="600" y="520" font-size="34" text-anchor="middle">someone push?</text>
+  <text x="600" y="955" font-size="28" text-anchor="middle" class="m">Label each box: culture · institution · technology · coercion · the land</text>
+</svg>

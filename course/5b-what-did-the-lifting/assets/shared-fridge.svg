@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="An open office fridge in a building of strangers. Three shelves of milk cartons, each labelled with a name and a floor: Sam 3rd floor, Priya 5th, Tom 2nd, Ana 4th, Li 6th. A note taped to the door: Please don't drink other people's milk. Thanks!">
+  <style>text{font-family:"Hanken Grotesk","Helvetica Neue",Arial,sans-serif;fill:#1b1916}</style>
+  <rect width="1200" height="900" fill="#fbfaf6"/>
+  <!-- fridge body -->
+  <rect x="300" y="60" width="440" height="790" rx="24" fill="#ffffff" stroke="#1b1916" stroke-width="8"/>
+  <rect x="330" y="100" width="380" height="720" fill="#ece7dc"/>
+  <g stroke="#5d584f" stroke-width="6"><line x1="330" y1="320" x2="710" y2="320"/><line x1="330" y1="540" x2="710" y2="540"/></g>
+  <!-- open door -->
+  <path d="M740 60 L1020 120 L1020 790 L740 850 Z" fill="#ffffff" stroke="#1b1916" stroke-width="8"/>
+  <rect x="800" y="250" width="170" height="170" fill="#ffe873" transform="rotate(-4 885 335)"/>
+  <text x="885" y="300" font-size="30" text-anchor="middle" transform="rotate(-4 885 335)">Please don't</text>
+  <text x="885" y="338" font-size="30" text-anchor="middle" transform="rotate(-4 885 335)">drink other</text>
+  <text x="885" y="376" font-size="30" text-anchor="middle" transform="rotate(-4 885 335)">people's milk.</text>
+  <text x="885" y="408" font-size="26" text-anchor="middle" transform="rotate(-4 885 335)">Thanks!</text>
+  <!-- cartons: shelf 1 -->
+  <g stroke="#1b1916" stroke-width="4">
+    <path d="M360 300v-130l30-30h70l30 30v130z" fill="#ffffff"/><path d="M540 300v-130l30-30h70l30 30v130z" fill="#ffffff"/>
+    <path d="M360 520v-130l30-30h70l30 30v130z" fill="#ffffff"/><path d="M540 520v-130l30-30h70l30 30v130z" fill="#ffffff"/>
+    <path d="M450 790v-150l30-30h70l30 30v150z" fill="#ffffff"/>
+  </g>
+  <g fill="#e5201c"><rect x="362" y="200" width="126" height="34"/><rect x="542" y="200" width="126" height="34"/><rect x="362" y="420" width="126" height="34"/><rect x="542" y="420" width="126" height="34"/><rect x="452" y="680" width="126" height="34"/></g>
+  <g font-size="26" text-anchor="middle">
+    <text x="425" y="272">Sam · 3rd</text><text x="605" y="272">Priya · 5th</text>
+    <text x="425" y="492">Tom · 2nd</text><text x="605" y="492">Ana · 4th</text>
+    <text x="515" y="760">Li · 6th</text>
+  </g>
+</svg>

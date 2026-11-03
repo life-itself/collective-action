@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="A generic mock-up of a host's profile on a home-sharing app, with no brand: a spare room in Lisbon, host Marta, identity verified, 4.92 stars from 214 reviews, and two short reviews from strangers: spotless, exactly as described; Marta left us a map and a bottle of wine.">
+  <style>text{font-family:"Hanken Grotesk","Helvetica Neue",Arial,sans-serif;fill:#1b1916}.m{fill:#5d584f}.r{fill:#e5201c}</style>
+  <rect width="1200" height="900" fill="#fbfaf6"/>
+  <!-- phone card -->
+  <rect x="300" y="40" width="600" height="820" rx="40" fill="#ffffff" stroke="#1b1916" stroke-width="6"/>
+  <!-- photo placeholder: a room -->
+  <rect x="340" y="90" width="520" height="250" rx="16" fill="#ece7dc"/>
+  <g stroke="#5d584f" stroke-width="5" fill="none">
+    <rect x="400" y="130" width="120" height="110"/><line x1="460" y1="130" x2="460" y2="240"/><line x1="400" y1="185" x2="520" y2="185"/>
+    <path d="M580 300v-70h230v70M580 260h230"/><rect x="600" y="200" width="80" height="34" rx="10"/>
+  </g>
+  <text x="340" y="395" font-size="38">Spare room in Lisbon</text>
+  <!-- host line -->
+  <circle cx="372" cy="455" r="32" fill="#ece7dc" stroke="#1b1916" stroke-width="3"/>
+  <text x="372" y="467" font-size="32" text-anchor="middle">M</text>
+  <text x="422" y="448" font-size="30">Hosted by Marta</text>
+  <text x="422" y="484" font-size="26" class="m">✓ identity verified · host since 2017</text>
+  <!-- rating -->
+  <text x="340" y="560" font-size="44" class="r">★★★★★</text>
+  <text x="600" y="558" font-size="40">4.92</text>
+  <text x="700" y="556" font-size="28" class="m">· 214 reviews</text>
+  <line x1="340" y1="590" x2="860" y2="590" stroke="#ece7dc" stroke-width="3"/>
+  <!-- reviews -->
+  <text x="340" y="640" font-size="26" class="r">★★★★★</text><text x="490" y="640" font-size="26" class="m">Jon, from Oslo</text>
+  <text x="340" y="680" font-size="28">"Spotless, exactly as described."</text>
+  <text x="340" y="750" font-size="26" class="r">★★★★★</text><text x="490" y="750" font-size="26" class="m">Aiko, from Osaka</text>
+  <text x="340" y="790" font-size="26">"Marta left us a map and a bottle of wine."</text>
+</svg>

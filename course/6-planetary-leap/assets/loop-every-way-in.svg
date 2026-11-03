@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1000" role="img" aria-label="A loop of five boxes, culture, institutions, technology, coercion and the land, with a start marker beside every box: a loop has several ways in.">
+<style>text{font-family:"Hanken Grotesk","Helvetica Neue",Arial,sans-serif;fill:#1b1916}.m{fill:#5d584f}</style>
+<defs><marker id="h" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1b1916"/></marker></defs>
+<rect width="1200" height="1000" fill="#fbfaf6"/>
+
+<line x1="710" y1="204" x2="870" y2="312" stroke="#1b1916" stroke-width="5" marker-end="url(#h)"/>
+<line x1="954" y1="460" x2="861" y2="725" stroke="#1b1916" stroke-width="5" marker-end="url(#h)"/>
+<line x1="651" y1="799" x2="549" y2="799" stroke="#1b1916" stroke-width="5" marker-end="url(#h)"/>
+<line x1="339" y1="725" x2="246" y2="460" stroke="#1b1916" stroke-width="5" marker-end="url(#h)"/>
+<line x1="330" y1="312" x2="490" y2="204" stroke="#1b1916" stroke-width="5" marker-end="url(#h)"/>
+<rect x="430.0" y="70.0" width="340" height="120" fill="#c9a227" stroke="#1b1916" stroke-width="0"/>
+<text x="600.0" y="145" font-size="44" text-anchor="middle" style="fill:#1b1916">culture</text>
+<rect x="810.4226065180615" y="325.66371208126947" width="340" height="120" fill="#03296f" stroke="#1b1916" stroke-width="0"/>
+<text x="980.4226065180615" y="401" font-size="44" text-anchor="middle" style="fill:#fff">institutions</text>
+<rect x="665.1141009169893" y="739.3362879187305" width="340" height="120" fill="#1f3d2b" stroke="#1b1916" stroke-width="0"/>
+<text x="835.1141009169893" y="815" font-size="44" text-anchor="middle" style="fill:#fff">technology</text>
+<rect x="194.88589908301083" y="739.3362879187305" width="340" height="120" fill="#e5201c" stroke="#1b1916" stroke-width="0"/>
+<text x="364.8858990830108" y="815" font-size="44" text-anchor="middle" style="fill:#fff">coercion</text>
+<rect x="49.57739348193854" y="325.6637120812695" width="340" height="120" fill="#cdb791" stroke="#1b1916" stroke-width="0"/>
+<text x="219.57739348193854" y="401" font-size="44" text-anchor="middle" style="fill:#1b1916">the land</text>
+<text x="390.0" y="150.0" font-size="52" text-anchor="middle" style="fill:#e5201c">▶</text>
+<text x="770.4226065180615" y="405.66371208126947" font-size="52" text-anchor="middle" style="fill:#e5201c">▶</text>
+<text x="625.1141009169893" y="819.3362879187305" font-size="52" text-anchor="middle" style="fill:#e5201c">▶</text>
+<text x="154.88589908301083" y="819.3362879187305" font-size="52" text-anchor="middle" style="fill:#e5201c">▶</text>
+<text x="9.577393481938543" y="405.6637120812695" font-size="52" text-anchor="middle" style="fill:#e5201c">▶</text>
+</svg>
