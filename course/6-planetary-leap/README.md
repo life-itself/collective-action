@@ -190,13 +190,11 @@ This may be that moment: we've run out of places to send the bill, except our ow
 
 The circle has widened before. We can do it again. **What will you seed?**
 
-Thich Nhat Hanh ends *Love Letter to the Earth* with an afterword he called "Toward a Cosmic Religion". In it he hopes this century can find a shared spiritual ground for every people, one that ends the divisions between us, and is based
+Thich Nhat Hanh ends *Love Letter to the Earth* with an afterword he called "Toward a Cosmic Religion". This is the passage I want to leave you with.
 
-> not on myth, belief, or dogma, but on evidence and the insight of interbeing.
+> In the twenty-first century it should be possible for us to come together and offer ourselves the kind of religion that can help unite all peoples and all nations, and remove all separation and discrimination. … it will be possible to establish a cosmic religion based not on myth, belief, or dogma, but on evidence and the insight of interbeing. And that would be a giant leap for humankind.
 >
 > — Thich Nhat Hanh, *Love Letter to the Earth*, Afterword[^tnh]
-
-That, he says, would be humanity's giant leap.
 
 Notice what he asks for: not belief, not dogma, but evidence and insight. Not everyone becoming a saint: a shared picture, seeded and copied, the way every widening of the circle has spread.
 
@@ -220,7 +218,7 @@ Even with alignment solved, the race may not be over. The authors of *Gradual Di
 
 ### The wisdom gap
 
-The biologist E. O. Wilson often described our problem as Stone Age emotions, medieval institutions and godlike technology. The gap between what we can do and how well we can decide together is this course's subject at its largest.
+The biologist E. O. Wilson put it this way: "The real problem of humanity is the following: we have Paleolithic emotions, medieval institutions, and god-like technology." The gap between what we can do and how well we can decide together is this course's subject at its largest.
 
 ### Technosolutionism and the ascent narrative
 
@@ -234,7 +232,7 @@ Image credits: [assets/SOURCES.md](assets/SOURCES.md).
 [^nordhaus]: William Nordhaus, "Climate clubs: Overcoming free-riding in international climate policy", *American Economic Review* 105(4) (2015).
 [^moloch]: Scott Alexander, "Meditations on Moloch", *Slate Star Codex* (2014).
 [^race]: Stuart Armstrong, Nick Bostrom and Carl Shulman, "Racing to the precipice: a model of artificial intelligence development", *AI & Society* 31 (2016).
-[^taboo]: Nina Tannenwald, "The nuclear taboo: The United States and the normative basis of nuclear non-use", *International Organization* 53(3) (1999). Others credit deterrence; this is one reading. Torture: UN Convention against Torture (1984), about 170 states parties. Slavery: Mauritania abolished it in 1981 and made it a crime in 2007.
+[^taboo]: Nina Tannenwald, "The nuclear taboo: The United States and the normative basis of nuclear non-use", *International Organization* 53(3) (1999). Others credit deterrence; this is one reading. Torture: UN Convention against Torture (1984), 174 states parties as of 2024. Slavery: Mauritania abolished it in 1981 and made it a crime in 2007.
 [^slavery]: ILO, Walk Free and IOM, *Global Estimates of Modern Slavery: Forced Labour and Forced Marriage* (2022): about 50 million people.
 [^ssm]: US support for same-sex marriage: 27% in 1996, about 70% in the early 2020s (Gallup). The Netherlands legalised it in 2001.
 [^centola]: Damon Centola, Joshua Becker, Devon Brackbill and Andrea Baronchelli, "Experimental evidence for tipping points in social convention", *Science* 360 (2018): about 25% in online experiments. A finding from the lab, not a law of nature.
