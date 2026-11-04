@@ -129,6 +129,11 @@ Along the old border of the Habsburg Empire, in today's Poland, Romania, Ukraine
 ![Map of eastern Europe with today's borders; a heavy black line marks the Habsburg Empire's furthest border, cutting across Poland, Romania, Ukraine, Serbia and Montenegro, with black dots for the surveyed places on either side](assets/habsburg-border-map-becker-2016.jpg)
 *Where the natural experiment runs: the old Habsburg border (solid line at its furthest extent, dashed in 1900) cuts across five of today's countries; the black dots are the surveyed communities either side of it. Becker, Boeckh, Hainz and Woessmann, IZA discussion paper 5584 (2011), the working paper of their* Economic Journal *article, fig. 1. Fair use.*
 
+And strong rules can crowd norms out. The Kuba kingdom of Central Africa, from the 1600s, had councils, courts, police and taxes, unusual for the region. Its descendants today are more likely to cheat in experimental games than their neighbours, whose ancestors never had a state. One reading, the authors': when the state enforces the rules, parents stop teaching them.[^kuba]
+
+![Carved wooden figure of a Kuba king sitting cross-legged on a platform, a flat crown on his head and a drum in front of him](assets/kuba-ndop-mishe-mishyaang-mambul-brooklyn.jpg)
+*A real kingdom with courts and police. Royal portrait figure (ndop) of the Kuba king Mishe miShyaang maMbul, about 1760–80, thought to be the oldest ndop there is. Brooklyn Museum, CC BY 3.0.*
+
 So does it work if you impose the rules long enough? Maybe, over generations. I don't think it's settled, and I'd like your view.
 
 One way to hold it: culture is the slow stock, changing over generations; institutions are the faster flow, which can change in a year. And a rule that never becomes a norm needs an enforcer for ever.
@@ -136,14 +141,14 @@ One way to hold it: culture is the slow stock, changing over generations; instit
 ## 4. Seeing and binding
 
 > [!reflect] Reflect: A stranger in your home
-> Would you let a stranger sleep in your home, or get into a stranger's car at night? Many people do both, through Airbnb and Uber. What makes that possible?
+> Would you let a stranger sleep in your home, or get into a stranger's car at night? Millions of people do both, every day, through Airbnb and Uber.[^scale] What makes that possible?
 
 ![A generic phone screen for a spare room in Lisbon: host Marta, identity verified, five stars, 4.92 from 214 reviews, and two short reviews from strangers](assets/host-rating-mockup.svg)
 *Seeing sideways: a stranger's home, vouched for by a few hundred other strangers. A generic mock-up, not any real platform. Illustration: Seeds of Renaissance.*
 
 ### Seeing from above
 
-Start at the beginning. Among the first writing we have, from the city of Uruk in Mesopotamia, over 5,000 years ago, is not poetry or law. It's accounts: lists of rations and goods. Writing was invented, in large part, to keep track of who owed what.[^uruk]
+Start at the beginning. Among the first writing we have, from the city of Uruk in Mesopotamia, over 5,000 years ago, is not poetry or law. It's accounts: rations, grain, livestock, workers.[^uruk] Writing was invented, in large part, to keep track of who owed what.
 
 ![A small rounded clay tablet with pictographic signs pressed into it in boxes, and round holes for numbers](assets/uruk-rations-tablet-bm.jpg)
 *Writing's first job: seeing. A proto-cuneiform list of rations from the late Uruk period, 3300–3100 BCE; the sign for a ration is a head and a bowl. British Museum. Photo: Osama Shukir Muhammed Amin, CC BY-SA 4.0.*
@@ -161,7 +166,10 @@ The platforms are different. Airbnb checks who you are, from your passport. And 
 
 That's reputation, the word of mouth that keeps a shared house honest (chapter 2), rebuilt for strangers at the scale of millions. You've never met this host, but a hundred people have, and they've told you.
 
-Notice what it stands on. Airbnb works in countries where there's already enough trust in strangers, and courts and police in the background, for the ratings to be believed. The technology doesn't create that trust from nothing. It takes trust that is already there and lifts it a level.
+Notice what it stands on. Airbnb works in countries where there's already enough trust in strangers, and courts and police in the background, for the ratings to be believed. The technology doesn't create that trust from nothing. It takes trust that is already there and lifts it a level. Medieval kings did something similar with market towns. Some markets were already held by custom, where traders met, and a king's charter recognised them; most charters licensed new ones, and many of those failed. A charter could protect and formalise trade, but not conjure it; where the trade was already there, the market grew more.[^charters] Culture, then a structure on top, then more of the culture: a cycle.
+
+![A parchment charter in Latin pinned to a wall, a plaited green and gold cord hanging from it to a large dark green wax seal](assets/bedford-borough-charter-seal-higgins.jpg)
+*What a king's grant looked like. A royal charter to the burgesses of Bedford, the Great Seal still on its cord; its opening line names a King Richard of England and France, so Richard II (1377–99). The Higgins, Bedford. Photo: Simon Speed, public domain.*
 
 ### The limits
 
@@ -219,7 +227,7 @@ It can dissolve in two ways. The first: the selfish move becomes the group's bes
 
 ### The bomb, again
 
-The bomb is the nearest real thing to the magic weapon, in theory at least. When de Gaulle's France built its own (first test, 1960), it was partly to need its allies less: de Gaulle doubted that America would risk its own cities to defend France.[^degaulle] An ally's promise he didn't think could be made to stick.
+The bomb is the nearest real thing to the magic weapon, in theory at least. When de Gaulle's France built its own (first test, 1960), it was partly to need its allies less: he had asked Kennedy whether America would really be ready to trade New York for Paris.[^degaulle] An ally's promise he didn't think could be made to stick.
 
 But look at what happened to the problem. It didn't vanish; it moved. Inside the border, France still had to agree, pay for and run the thing. And between the nuclear powers it made the existential game we just saw. One problem partly dissolved; a worse one took its place.
 
@@ -229,7 +237,7 @@ In the mid-1800s, whale oil lit many of the lamps of Europe and America, and the
 
 That's the shape of today's biggest hopes. Clean energy so cheap that everyone switches, with no climate treaty. Solve the alignment problem in AI, and no one needs to agree to slow the race down. Whether that works on the planet is chapter 6's test. But in an age that trusts technology to save us, we tend to overestimate how often it can.[^techtrust]
 
-The whales show why. Kerosene took away one demand, for a while. Then technology brought the hunt back: harpoon cannons, steam catchers and factory ships killed about 2.9 million large whales in the twentieth century.[^whaling] It took an agreement in the end, the moratorium on commercial whaling, agreed in 1982 and in force from the 1985–86 season. And the fix brought the next problem: kerosene was the first big market for oil, and the carbon from oil is in the air we now have to share.
+The whales show why. Kerosene took away one demand, for a while. Then technology brought the hunt back: harpoon cannons, steam catchers and factory ships killed about 2.9 million large whales in the twentieth century, and by 1962 had taken as many sperm whales as two centuries of sail-powered whaling.[^whaling] It took an agreement in the end, the moratorium on commercial whaling, agreed in 1982 and in force from the 1985–86 season. And the fix brought the next problem: kerosene was the first big market for oil, and the carbon from oil is in the air we now have to share.
 
 Nor does the hope of a fix cost nothing. Waiting for a technology that will make cooperation unnecessary can become a reason not to cooperate now: why cut emissions today, if we'll capture the carbon later? Researchers call it mitigation deterrence; it's argued more than measured.[^deterrence] And if the bet fails, there's no plan B. At the planetary scale, a fix that doesn't arrive in time is not a small mistake.
 
@@ -331,7 +339,7 @@ THE FIRST STATES (chapter 4)
 
 Ilahita starts with a threat. The first states start with the land. Henrich's story starts with belief. Move the ▶ and the cause seems to move with it.
 
-So the tension chapter 5 left us with, the trust or the rules, is partly a disagreement about where to start the story. Acemoglu and Robinson are the strongest voice for institutions first, in *Why Nations Fail*.[^ar] In their later book, *The Narrow Corridor*, they draw something closer to a loop, though theirs is a race between the state and society, and they would still start it with power, not belief. The disagreement that's left is about the entry point.
+So the tension chapter 5 left us with, the trust or the rules, is partly a disagreement about where to start the story. Acemoglu and Robinson are the strongest voice for institutions first: in *Why Nations Fail* they explicitly reject culture as the explanation.[^ar] In their later book, *The Narrow Corridor*, they draw something closer to a loop, though theirs is a race between the state and society, and they would still start it with power, not belief. The disagreement that's left is about the entry point.
 
 ### The AI race as a loop
 
@@ -395,28 +403,47 @@ But here is what the loop gives us. A loop has several ways in. If culture, inst
 
 Now the last rung. Eight billion people. No one above us to write the sign. The contest that built every state could now end us all. And the market can't fence the air. So at eight billion, where can we push on the loop? That's chapter 6, the planetary leap.
 
+## Going further
+
+### More cases of imposed rules
+
+The strict test, run by history. Each case is a set of rules brought in from outside; the question is whether, given time, the culture followed.
+
+| Case | The rules | What followed | How sure |
+|---|---|---|---|
+| Napoleon's Germany, 1790s–1815 | French occupation imposed a civil code and abolished guilds and serfdom | Occupied areas urbanised and grew faster after 1850 (Acemoglu, Cantoni, Johnson and Robinson, 2011) | Debated: others put the growth down to other causes |
+| Divided Germany, 1945–90 | Communist rule in the East | East Germans favoured state redistribution and intervention more, strongest in older cohorts (Alesina and Fuchs-Schündeln, 2007) | Real, but converging: the authors expect one to two generations for it to fade |
+| The Dai Viet state, Vietnam | Centuries of a bureaucratic state that governed through villages | Areas once inside it have done better economically over 150 years than those just outside, through stronger village collective action that outlived the state (Dell, Lane and Querubin, 2018) | Strong design; one country |
+| Meiji Japan, 1898 | A civil code drafted mainly on the German draft code, with French influence | It held; the family books kept Japan's own household (ie) system, and were rewritten after 1945 | A transplant adapted, not copied whole |
+| Iraq, 2005 | A new constitution, under occupation | Elections held; trust in the state did not follow, amid civil war | Not a clean test: force and war were mixed in |
+
+The pattern, on one reading: rules imposed from outside fail when the enforcing stops before the habit forms, and sometimes take when it doesn't. Even the successes took a generation or more.
+
 Image credits: [assets/SOURCES.md](assets/SOURCES.md).
 
 [^culture]: Henrich, *The Secret of Our Success* (2016) and *The WEIRDest People in the World* (2020): culture as information acquired by learning from others (beliefs, values, practices, rituals, know-how, norms). Institutions, on this view, are a product of culture.
-[^putnam]: Robert Putnam, *Making Democracy Work: Civic Traditions in Modern Italy* (1993). He traces the north's civic traditions to the medieval communal republics.
+[^putnam]: Robert Putnam, *Making Democracy Work: Civic Traditions in Modern Italy* (1993). Fifteen "ordinary" regions got elected governments in 1970; five "special-statute" regions already existed, with wider powers. Putnam studied all twenty over two decades. He traces the north's civic traditions to the medieval communal republics; Sidney Tarrow, "Making social science work across space and time", *American Political Science Review* 90 (1996), argues that institutions and state-building, more than medieval civic traditions, shaped the south's political culture.
 [^mimicry]: Andrews, Pritchett and Woolcock, *Building State Capability* (2017). Berkowitz, Pistor and Richard (2003, *European Economic Review*) find that transplanted legal systems worked where they were adapted to local conditions or where people already knew their principles.
-[^habsburg]: Becker, Boeckh, Hainz and Woessmann, "The empire is dead, long live the empire! Long-run persistence of trust and corruption in the bureaucracy", *Economic Journal* 126 (2016). Survey data from 2006 (the Life in Transition Survey), comparing communities either side of the former border, inside the same present-day countries.
-[^uruk]: Denise Schmandt-Besserat, *How Writing Came About* (1996), traces writing to clay accounting tokens used for thousands of years before. James C. Scott, *Against the Grain* (2017), on writing and the early state.
-[^goodhart]: Charles Goodhart (1975), on monetary targets: a statistical regularity tends to collapse once pressure is placed on it for control. Campbell's law (1976) says the same for social indicators.
-[^ratings]: Zervas, Proserpio and Byers, "A first look at online reputation on Airbnb, where every stay is above average", *Marketing Letters* (2021): nearly all Airbnb listings are rated between 4.5 and 5 stars.
-[^tilly]: Charles Tilly, "Reflections on the history of European state-making" (1975) and *Coercion, Capital, and European States, AD 990–1990* (1990).
-[^stirrup]: Lynn White, *Medieval Technology and Social Change* (1962); answered by, among others, Bachrach (1970).
-[^hayek]: Friedrich Hayek, "The use of knowledge in society", *American Economic Review* (1945).
-[^lighthouse]: Ronald Coase, "The lighthouse in economics", *Journal of Law and Economics* (1974).
-[^loop]: The chain is Henrich's (2020, chs. 5–7 and 9–10; Schulz et al., *Science*, 2019). That print helped the Reformation spread is Elizabeth Eisenstein's argument (*The Printing Press as an Agent of Change*, 1979). Drawing it as a closed loop is our reading.
-[^ar]: Daron Acemoglu and James Robinson, *Why Nations Fail* (2012); *The Narrow Corridor* (2019), on the "shackled Leviathan", the state and society racing each other.
+[^habsburg]: Becker, Boeckh, Hainz and Woessmann, "The empire is dead, long live the empire! Long-run persistence of trust and corruption in the bureaucracy", *Economic Journal* 126 (2016). Survey data from 2006 (the Life in Transition Survey), comparing communities within 200 km either side of the former border, inside the same present-day countries.
+[^kuba]: Lowes, Nunn, Robinson and Weigel, "The evolution of culture and institutions: evidence from the Kuba Kingdom", *Econometrica* 85 (2017). The interpretation, that formal institutions substituted for the teaching of norms, is the authors'.
+[^scale]: Airbnb reported 533 million nights and experiences booked in 2025, about 1.5 million a night (fourth-quarter 2025 shareholder letter, February 2026); Uber reported more than 40 million trips a day, deliveries included, at the end of 2025 (fourth-quarter 2025 results).
+[^uruk]: Proto-cuneiform tablets from Uruk, about 3300–3000 BCE; most are administrative records of rations, grain, livestock and labour. Denise Schmandt-Besserat, *How Writing Came About* (1996), traces writing to clay accounting tokens used for thousands of years before. James C. Scott, *Against the Grain* (2017), on writing and the early state.
+[^charters]: Samantha Letters, *Gazetteer of Markets and Fairs in England and Wales to 1516* (2003), introduction: 57 per cent of the markets that existed by 1516 were created in the thirteenth century, almost all by royal grant, in waves peaking in the 1220s, the 1250s and the early fourteenth century; some markets were "prescriptive", held by custom before any grant, and many granted ones "did not prosper or eventually failed". Richard Britnell, *The Commercialisation of English Society* (1993). Henrich (2020) on charter towns as voluntary associations of strangers.
+[^goodhart]: Charles Goodhart (1975), on monetary targets: a statistical regularity tends to collapse once pressure is placed on it for control. The popular form, "when a measure becomes a target, it ceases to be a good measure", is Marilyn Strathern's: "'Improving ratings': audit in the British university system", *European Review* 5 (1997). Campbell's law (1976) says the same for social indicators.
+[^ratings]: Zervas, Proserpio and Byers, "A first look at online reputation on Airbnb, where every stay is above average", *Marketing Letters* 32 (2021): nearly all Airbnb listings are rated between 4.5 and 5 stars.
+[^tilly]: Charles Tilly, "Reflections on the history of European state-making" (1975) and *Coercion, Capital, and European States, AD 990–1990* (1990). Peter Turchin and colleagues, "Disentangling the evolutionary drivers of social complexity", *Science Advances* (2022), using the Seshat databank, find military technology, with farming productivity, the strongest predictor of social complexity.
+[^stirrup]: Lynn White, *Medieval Technology and Social Change* (1962); answered by P. H. Sawyer and R. H. Hilton, "Technical determinism: the stirrup and the plough", *Past and Present* 24 (1963), and Bachrach (1970).
+[^hayek]: Friedrich Hayek, "The use of knowledge in society", *American Economic Review* (1945); the tin example is his.
+[^lighthouse]: Ronald Coase, "The lighthouse in economics", *Journal of Law and Economics* (1974). David van Zandt (1993, *Journal of Legal Studies*) and Elodie Bertrand (2006, *Cambridge Journal of Economics*) show how far the state was involved: private owners needed the Crown's authority, and the light dues were compulsory, collected at the ports the same way as Trinity House's.
+[^loop]: The chain is Henrich's (2020, chs. 5–7 and 9–10; Schulz et al., *Science*, 2019). He argues that Protestantism, by pushing literacy, deepened the psychology the Church's rules began (ch. 1). That print helped the Reformation spread is Elizabeth Eisenstein's argument (*The Printing Press as an Agent of Change*, 1979). Drawing it as a closed loop is our reading.
+[^ar]: Daron Acemoglu and James Robinson, *Why Nations Fail* (2012), ch. 2, rejects the "culture hypothesis"; *The Narrow Corridor* (2019) on the "shackled Leviathan", the state and society racing each other, and the "cage of norms", the order a society keeps without a strong state, which stifles liberty.
 [^schelling]: Thomas Schelling, *The Strategy of Conflict* (1960), on commitment and credible threats; Oliver Williamson, "Credible commitments: using hostages to support exchange", *American Economic Review* (1983). Ulysses and the mast is the self-binding case: Jon Elster, *Ulysses and the Sirens* (1979).
 [^dao]: The DAO, an Ethereum investment fund, was drained of about a third of its funds in June 2016 through a flaw in its code; in July the Ethereum community adopted a "hard fork" that reversed the transfers. A minority refused and kept the original chain, Ethereum Classic.
 [^escrow]: Airbnb takes the guest's payment at booking and releases it to the host about 24 hours after scheduled check-in (Airbnb help centre, "When you'll get your payout").
-[^degaulle]: France's *force de frappe* was about independence from its allies and about national standing; it tested its first bomb in 1960.
+[^degaulle]: Kennedy recalled it to de Gaulle in Paris on 31 May 1961: "The General himself had asked whether we would be ready to trade New York for Paris" (memorandum of conversation, *Foreign Relations of the United States, 1961–1963*, vol. XIV, doc. 30). France's *force de frappe* was also about independence and national standing; it tested its first bomb in 1960.
 [^whales]: American whaling was already declining when kerosene arrived, from depletion of the grounds, ships lost in the Civil War and crews leaving for the gold fields: Davis, Gallman and Gleiter, *In Pursuit of Leviathan* (University of Chicago Press, 1997). Candles, lard oil, camphene and town gas also competed for lighting.
-[^whaling]: Rocha, Clapham and Ivashchenko, "Emptying the oceans", *Marine Fisheries Review* 76 (2014). Svend Foyn's grenade harpoon was developed in the 1860s and patented in 1870; floating factories date from about 1903, stern-slipway factory ships from 1925. The International Whaling Commission agreed the moratorium in 1982; it took effect from the 1985–86 season, with holdouts (Japan, Norway, Iceland).
-[^techtrust]: Rufus Pollock, Sylvie Barbier and Rosie Bell, *In Tech We Trust: the god-like authority of technology in the modern age, and what it means to set a wiser course* (February 2026).
+[^whaling]: About 2.9 million large whales were killed in the twentieth century: Rocha, Clapham and Ivashchenko, "Emptying the oceans", *Marine Fisheries Review* 76 (2014). They note that by mid-1962 industrial whaling had killed as many sperm whales as were taken in the whole of the eighteenth and nineteenth centuries; the paper makes no comparison for all species. Svend Foyn's grenade harpoon was developed in the 1860s and patented in 1870; floating factories date from about 1903, stern-slipway factory ships from 1925. The International Whaling Commission agreed the moratorium in 1982; it took effect from the 1985–86 season, with holdouts (Japan, Norway, Iceland).
+[^techtrust]: Rufus Pollock, Rosie Bell and Sylvie Barbier, [*In Tech We Trust: the god-like authority of technology in the modern age, and what it means to set a wiser course*](https://seedsofrenaissance.org/papers/tech) (February 2026).
 [^deterrence]: Markusson, McLaren and Tyfield, "Towards a cultural political economy of mitigation deterrence by negative emissions technologies (NETs)", *Global Sustainability* (2018); on solar geoengineering, Duncan McLaren, "Mitigation deterrence and the 'moral hazard' of solar radiation management", *Earth's Future* 4(12) (2016). Survey evidence that the public actually reduces effort is mixed.
 
 ---
