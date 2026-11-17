@@ -230,7 +230,7 @@ A research task is done when:
 - `research-note` skill — question tree, "how solid is it?" as its own branch,
   results / theory / worldview layers, evidence tiers, fact-check by subagent
   with CONFIRMED / WRONG / UNVERIFIED, recording check depth:
-  `~/src/life-itself/skills/skills/research-note/SKILL.md`
+  `~/src/rufuspollock/skills/skills/research-note/SKILL.md`
 - `anthropic-skills:deep-research` (built-in Claude skill) — coordinating
   research subagents across sources; useful for the mapping pass, but it is
   web-first, so constrain it to the source hierarchy above.
