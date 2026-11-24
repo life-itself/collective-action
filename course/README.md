@@ -22,6 +22,6 @@ The course runs as a ladder. First, a portable tool for diagnosing collective ac
 
 ## About the course
 
-The 2026 run is a prototype, five live sessions in late October and early November. Course page and sign-up: [seedsofrenaissance.org/courses/collective-action](https://seedsofrenaissance.org/courses/collective-action).
+The 2026 run was a prototype: five live sessions, 28 October to 3 November. Course page: [seedsofrenaissance.org/courses/collective-action](https://seedsofrenaissance.org/courses/collective-action).
 
 The rest of this wiki holds the concepts the course draws on, such as the [[Prisoner's Dilemma]], the [[Stag hunt]] and [[Patterns of collective action]]. Research behind the course (candidate examples and cases) is in [research/](research/).

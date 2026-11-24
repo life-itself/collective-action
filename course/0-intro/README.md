@@ -255,6 +255,8 @@ If collective action is the organ, we need to know it well before we can ask wha
 
 That's [Chapter 1: The basics](../1-basics/).
 
+Image credits: [assets/SOURCES.md](assets/SOURCES.md).
+
 [^horatius]: Livy, *Ab Urbe Condita* 2.10, c. 508 BC, against Lars Porsenna's Etruscans. Legend, not history. Two companions, Spurius Lartius and Titus Herminius, stood with him at first.
 [^mosul]: June 2014. About 1,500 attacking fighters (the Economist; other estimates 1,000–3,000). Iraqi forces in Mosul were about 30,000 soldiers plus 30,000 federal police on paper (NYT, 2016), far fewer in fact because of "ghost soldiers"; Reuters, "How Mosul fell" (14 Oct 2014), has a general saying a front line of 2,500 was closer to 500. Checked via [Wikipedia, "Fall of Mosul"](https://en.wikipedia.org/wiki/Fall_of_Mosul) and its sources.
 [^niemoller]: Wording as given by the US Holocaust Memorial Museum. Versions vary: some start with the communists.
